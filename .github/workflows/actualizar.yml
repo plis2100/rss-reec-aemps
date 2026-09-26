@@ -33,10 +33,17 @@ jobs:
           echo "Día de la semana: $DIA"
 
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Ejecución manual permitida."
             echo "ejecutar=si" >> "$GITHUB_OUTPUT"
-          elif [ "$DIA" -le 5 ] && [ "$HORA" -ge 7 ] && [ "$HORA" -le 22 ]; then
+          elif [ "$DIA" -le 5 ] && \
+               { [ "$HORA" = "07" ] || \
+                 [ "$HORA" = "12" ] || \
+                 [ "$HORA" = "17" ] || \
+                 [ "$HORA" = "22" ]; }; then
+            echo "Horario programado permitido."
             echo "ejecutar=si" >> "$GITHUB_OUTPUT"
           else
+            echo "Fuera del horario programado."
             echo "ejecutar=no" >> "$GITHUB_OUTPUT"
           fi
 
