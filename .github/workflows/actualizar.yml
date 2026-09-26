@@ -1,0 +1,75 @@
+name: Actualizar RSS REEC AEMPS
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 * * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-rss-reec
+  cancel-in-progress: true
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Comprobar horario español
+        id: horario
+        shell: bash
+        run: |
+          HORA=$(TZ=Europe/Madrid date +%H)
+          DIA=$(TZ=Europe/Madrid date +%u)
+
+          echo "Hora española: $HORA"
+          echo "Día de la semana: $DIA"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "ejecutar=si" >> "$GITHUB_OUTPUT"
+          elif [ "$DIA" -le 5 ] && [ "$HORA" -ge 7 ] && [ "$HORA" -le 22 ]; then
+            echo "ejecutar=si" >> "$GITHUB_OUTPUT"
+          else
+            echo "ejecutar=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configurar Python
+        if: steps.horario.outputs.ejecutar == 'si'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        if: steps.horario.outputs.ejecutar == 'si'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Crear RSS
+        if: steps.horario.outputs.ejecutar == 'si'
+        run: python -u actualizar_rss.py
+
+      - name: Guardar RSS
+        if: steps.horario.outputs.ejecutar == 'si'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add feed.xml estado.json
+
+          if git diff --cached --quiet; then
+            echo "No existen cambios nuevos."
+          else
+            git commit -m "Actualizar estudios clínicos REEC"
+            git push
+          fi
