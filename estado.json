@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-28T05:32:38.020203+00:00",
-  "cantidad": 50,
+  "actualizado": "2026-09-28T20:36:34.139783+00:00",
+  "cantidad": 60,
   "estudios": [
+    {
+      "id": "911f7a2a47b5ef74e1eb9c874f2b1078ad08b3c1faa85804790efe912545bf32",
+      "titulo": "Estudio de fase 3, aleatorizado, abierto y multicéntrico para evaluar mocertatug rezetecan en comparación con el tratamiento estándar en pacientes con cáncer de ovario resistente a platino",
+      "titulo_completo": "Estudio de fase 3, aleatorizado, abierto y multicéntrico para evaluar mocertatug rezetecan en comparación con el tratamiento estándar en pacientes con cáncer de ovario resistente a platino",
+      "resumen": "Estudio para evaluar mocertatug rezetecan en comparación con el tratamiento estándar en pacientes con cáncer de ovario resistente a platino",
+      "enfermedad": "Neoplasias de ovario",
+      "estado": "No iniciado",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "identificador": "2025-523361-25-00 [ 224031 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34500",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-523361-25-00 [ 224031 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Estudio para evaluar mocertatug rezetecan en comparación con el tratamiento estándar en pacientes con cáncer de ovario resistente a platino</p><p><strong>Enfermedad investigada:</strong> Neoplasias de ovario</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34500\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "a644383f6ffff8bab59ca866b81dff2b6c8e636857f489c56964fd8319c56c89",
+      "titulo": "Estudio Fase III, aleatorizado, observador ciego y controlado, para evaluar la eficacia clínica de una vacuna frente a la gripe estacional en plataforma ARNm en adultos ¿65 años de edad.",
+      "titulo_completo": "Estudio Fase III, aleatorizado, observador ciego y controlado, para evaluar la eficacia clínica de una vacuna frente a la gripe estacional en plataforma ARNm en adultos ¿65 años de edad.",
+      "resumen": "Estudio sobre la eficacia de una vacuna contra la gripe en adultos ¿65 años de edad.",
+      "enfermedad": "Gripe, Humana",
+      "estado": "No iniciado",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "identificador": "2026-526682-14-00 [ 218130 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34497",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526682-14-00 [ 218130 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Estudio sobre la eficacia de una vacuna contra la gripe en adultos ¿65 años de edad.</p><p><strong>Enfermedad investigada:</strong> Gripe, Humana</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34497\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "4981589e9f3f229b16a6dc0446840ab4c024063054c85f3bd9f91bb2ae244dc1",
+      "titulo": "A prospective, randomized, double-blind, placebo-controlled, multicenter clinical trial to evaluate the efficacy and safety of subcutaneous immunotherapy with polymerized olive pollen (Olea europaea) [...]",
+      "titulo_completo": "A prospective, randomized, double-blind, placebo-controlled, multicenter clinical trial to evaluate the efficacy and safety of subcutaneous immunotherapy with polymerized olive pollen (Olea europaea) [...]",
+      "resumen": "Clinical trial to assess the efficacy and safety of a vaccine for olive pollen allergy",
+      "enfermedad": "Moderate-to-severe allergic rhinitis or rhinoconjunctivitis induced by olive pollen (Olea europaea), with or without mild-to-moderate asthma.",
+      "estado": "No iniciado",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "identificador": "2026-526390-41-00 [ T517-SIT-092 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34498",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526390-41-00 [ T517-SIT-092 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Clinical trial to assess the efficacy and safety of a vaccine for olive pollen allergy</p><p><strong>Enfermedad investigada:</strong> Moderate-to-severe allergic rhinitis or rhinoconjunctivitis induced by olive pollen (Olea europaea), with or without mild-to-moderate asthma.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34498\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "7798e6f2c7fa905866f05f6555e1c2fa0f14968aede7e8f8efa59150669418e5",
+      "titulo": "Effects of a CB1 Receptor Antagonist/Inverse Agonist (Rimonabant) on the Improvement of Cognitive Impairment in Patients with Post-COVID-19 Syndrome (RIMOCOVID-1)",
+      "titulo_completo": "Effects of a CB1 Receptor Antagonist/Inverse Agonist (Rimonabant) on the Improvement of Cognitive Impairment in Patients with Post-COVID-19 Syndrome (RIMOCOVID-1)",
+      "resumen": "Evaluation of the Safety and Efficacy of Rimonabant on Cognitive impairment in patients with post-COVID-19 Syndrome.",
+      "enfermedad": "Post-COVID-19 syndrome",
+      "estado": "No iniciado",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "identificador": "2023-507870-42-00 [ RIMOCOVID-1 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34501",
+      "descripcion": "<p><strong>Identificador:</strong> 2023-507870-42-00 [ RIMOCOVID-1 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Evaluation of the Safety and Efficacy of Rimonabant on Cognitive impairment in patients with post-COVID-19 Syndrome.</p><p><strong>Enfermedad investigada:</strong> Post-COVID-19 syndrome</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34501\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
     {
       "id": "9a34117c782c34cd9b4a201e4ff8af436994393374e7da73b72159274860c96e",
       "titulo": "Estudio para obtener información sobre el medicamento del estudio llamado ¿PF-08032562¿ en personas con tumores sólidos avanzados o metastásicos",
@@ -59,20 +115,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526048-10-00 [ RINGQUEST ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Explorando tumores genitourinarios poco estudiados con sacituzumab tirumotecan; un ensayo fase II de brazo único, canasta.</p><p><strong>Enfermedad investigada:</strong> Carcinoma Renal de Células Papilares Carcinoma Urotelial de Histología variante</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34488\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "b9fd909d5563362087ce16e857f810a4e8feab1e93ce244c2bea914ec383d485",
-      "titulo": "Ensayo en fase III, multicéntrico, doble ciego, aleatorizado, controlado con placebo y de grupos paralelos para evaluar la eficacia, la seguridad y la tolerabilidad de cenerimod en combinación con el [...]",
-      "titulo_completo": "Ensayo en fase III, multicéntrico, doble ciego, aleatorizado, controlado con placebo y de grupos paralelos para evaluar la eficacia, la seguridad y la tolerabilidad de cenerimod en combinación con el [...]",
-      "resumen": "Un ensayo de investigación para evaluar si cenerimod es eficaz y seguro para tratar la nefritis lúpica activa, añadido al tratamiento de base.",
-      "enfermedad": "Lupus eritematoso sistémico y nefritis lúpica activa.",
-      "estado": "No iniciado",
-      "fecha": "23/09/2026",
-      "fecha_iso": "2026-09-23T09:00:00+00:00",
-      "identificador": "2025-522984-14-00 [ ID-064B301 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34486",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-522984-14-00 [ ID-064B301 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Un ensayo de investigación para evaluar si cenerimod es eficaz y seguro para tratar la nefritis lúpica activa, añadido al tratamiento de base.</p><p><strong>Enfermedad investigada:</strong> Lupus eritematoso sistémico y nefritis lúpica activa.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34486\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "3f9212fe9ebfe9b7628fe77fb99cb70e0abccbfb4e00922becfaab5d967ce907",
       "titulo": "Ensayo en fase III, aleatorizado, con doble enmascaramiento, controlado con placebo y multicéntrico para comparar la eficacia y seguridad de trilaciclib frente a placebo en participantes con cáncer de[...]",
       "titulo_completo": "Ensayo en fase III, aleatorizado, con doble enmascaramiento, controlado con placebo y multicéntrico para comparar la eficacia y seguridad de trilaciclib frente a placebo en participantes con cáncer de[...]",
@@ -87,6 +129,48 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-525026-35-00 [ Trilaciclib-LSSCLC01 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Ensayo para evaluar la eficacia de trilaciclib en personas con cáncer de pulmón microcítico en estadio limitado</p><p><strong>Enfermedad investigada:</strong> Cáncer de pulmón microcítico en estadio limitado (CPM-EL)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34487\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "b9fd909d5563362087ce16e857f810a4e8feab1e93ce244c2bea914ec383d485",
+      "titulo": "Ensayo en fase III, multicéntrico, doble ciego, aleatorizado, controlado con placebo y de grupos paralelos para evaluar la eficacia, la seguridad y la tolerabilidad de cenerimod en combinación con el [...]",
+      "titulo_completo": "Ensayo en fase III, multicéntrico, doble ciego, aleatorizado, controlado con placebo y de grupos paralelos para evaluar la eficacia, la seguridad y la tolerabilidad de cenerimod en combinación con el [...]",
+      "resumen": "Un ensayo de investigación para evaluar si cenerimod es eficaz y seguro para tratar la nefritis lúpica activa, añadido al tratamiento de base.",
+      "enfermedad": "Lupus eritematoso sistémico y nefritis lúpica activa.",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2025-522984-14-00 [ ID-064B301 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34486",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-522984-14-00 [ ID-064B301 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Un ensayo de investigación para evaluar si cenerimod es eficaz y seguro para tratar la nefritis lúpica activa, añadido al tratamiento de base.</p><p><strong>Enfermedad investigada:</strong> Lupus eritematoso sistémico y nefritis lúpica activa.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34486\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "081fe7d24e45802d6e9a812c205f47517250d270a6f7dc14be6196fd88ef496d",
+      "titulo": "Multi-center, Randomized, Placebo-controlled, Double-blind Phase 1b/2a Trial to investigate Safety, Tolerability, Pharmacokinetics and exploratory efficacy of Invobenitug also known as Procizumab (PCZ[...]",
+      "titulo_completo": "Multi-center, Randomized, Placebo-controlled, Double-blind Phase 1b/2a Trial to investigate Safety, Tolerability, Pharmacokinetics and exploratory efficacy of Invobenitug also known as Procizumab (PCZ[...]",
+      "resumen": "Public title :A Phase 1b/2a trial to evaluate Invobenitug also known as Procizumab (PCZ; AK1967) in critical cardiovascular care.",
+      "enfermedad": "Cardiogenic shock due to Acute Coronary Syndrome, cardiogenic shock of septic origin or cardiogenic shock due to Acute decompensated Heart Failure",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2024-518450-16-00 [ CT-P1-002 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34499",
+      "descripcion": "<p><strong>Identificador:</strong> 2024-518450-16-00 [ CT-P1-002 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Public title :A Phase 1b/2a trial to evaluate Invobenitug also known as Procizumab (PCZ; AK1967) in critical cardiovascular care.</p><p><strong>Enfermedad investigada:</strong> Cardiogenic shock due to Acute Coronary Syndrome, cardiogenic shock of septic origin or cardiogenic shock due to Acute decompensated Heart Failure</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34499\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "eb4b9613704a4dbcfd4360b23f88f879bbf98090cbc02d7ff57882806aa2eb00",
+      "titulo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
+      "titulo_completo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
+      "resumen": "Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante",
+      "enfermedad": "Enfermedad de Crohn fibroestenosante",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2026-525197-19-00 [ AGMB129-01-CL-201 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34493",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525197-19-00 [ AGMB129-01-CL-201 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Crohn fibroestenosante</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34493\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "cc43559a533cb918dbd467d53e8ac165fe0f58c44ef5dea00b2cb3216a2ad2ec",
       "titulo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
       "titulo_completo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
@@ -99,6 +183,62 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34480",
       "descripcion": "<p><strong>Identificador:</strong> 2025-524811-35-00 [ J2A-MC-GZGY ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Efecto de orforglipron en comparación con dulaglutida en participantes pediátricos con diabetes tipo 2 (ACHIEVE-PEDS)</p><p><strong>Enfermedad investigada:</strong> Diabetes mellitus tipo 2</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34480\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "b3ce946067ccaebfb98b711b376481c56bbb1c64f0f6161387e295463b814cfb",
+      "titulo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
+      "titulo_completo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
+      "resumen": "Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes",
+      "enfermedad": "Anemia de células falciformes",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2025-524464-38-00 [ NN7535-8365 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34492",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524464-38-00 [ NN7535-8365 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes</p><p><strong>Enfermedad investigada:</strong> Anemia de células falciformes</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34492\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "2c4d62b0ffd5bf4b91b56cfcf954f40f4bdcd8687c274825fb2b9c5133c75f93",
+      "titulo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
+      "titulo_completo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
+      "resumen": "Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida",
+      "enfermedad": "Manejo crónico del peso",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2026-525408-82-00 [ 20250197 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34495",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525408-82-00 [ 20250197 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida</p><p><strong>Enfermedad investigada:</strong> Manejo crónico del peso</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34495\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "67ba90da182fbbf2ba094fe6dfbc96fb48868ed891522561758074d2a844b9be",
+      "titulo": "Estudio aleatorizado, doble ciego, controlado con placebo, con grupos paralelos y multicéntrico para evaluar la seguridad y la eficacia de 2 niveles de dosis del agonista oral del receptor de grelina [...]",
+      "titulo_completo": "Estudio aleatorizado, doble ciego, controlado con placebo, con grupos paralelos y multicéntrico para evaluar la seguridad y la eficacia de 2 niveles de dosis del agonista oral del receptor de grelina [...]",
+      "resumen": "Estudio para evaluar la seguridad y eficacia de AC01 en comparación con placebo en pacientes con insuficiencia cardiaca crónica.",
+      "enfermedad": "insuficiencia cardiaca crónica avanzada con función sistólica reducida (IC-FSr).",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2025-524469-25-00 [ AC01-02 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34494",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524469-25-00 [ AC01-02 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la seguridad y eficacia de AC01 en comparación con placebo en pacientes con insuficiencia cardiaca crónica.</p><p><strong>Enfermedad investigada:</strong> insuficiencia cardiaca crónica avanzada con función sistólica reducida (IC-FSr).</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34494\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "a6b0f5c4f683456bee1f0e240d10966c5915171d4fdd35f6d12d2828ba23daa7",
+      "titulo": "Estudio en fase IIIb, multicéntrico, aleatorizado, con enmascaramiento doble, comparativo con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de lebrikizumab en participantes adu[...]",
+      "titulo_completo": "Estudio en fase IIIb, multicéntrico, aleatorizado, con enmascaramiento doble, comparativo con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de lebrikizumab en participantes adu[...]",
+      "resumen": "Eficacia y seguridad de lebrikizumab en adultos y adolescentes con dermatitis atópica facial y cervical",
+      "enfermedad": "Dermatitis atópica facial y cervical",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2025-525133-31-00 [ M-17923-36 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34496",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-525133-31-00 [ M-17923-36 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Eficacia y seguridad de lebrikizumab en adultos y adolescentes con dermatitis atópica facial y cervical</p><p><strong>Enfermedad investigada:</strong> Dermatitis atópica facial y cervical</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34496\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "52f7038489ccf7c6c5abb74a41541b3c0bcd036a938da2d274ad72a1348949d1",
@@ -157,20 +297,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525699-24-00 [ CL13-ORY-2001 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Seguridad, tolerabilidad y eficacia de vafidemstat en adultos con síndrome de Phelan¿McDermid (HOPE¿2).</p><p><strong>Enfermedad investigada:</strong> Síndrome de Phelan¿McDermid</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34477\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "55d3cf6df01b280d8498eebaa56b9cf9254c07278552e8710f05d5738df9344b",
-      "titulo": "Estudio abierto de fase I, el primero en seres humanos, para evaluar la seguridad, la tolerabilidad, la farmacocinética (FC), farmacodinámica (FD) y la eficacia preliminar de ERAS-0015 en monoterapia [...]",
-      "titulo_completo": "Estudio abierto de fase I, el primero en seres humanos, para evaluar la seguridad, la tolerabilidad, la farmacocinética (FC), farmacodinámica (FD) y la eficacia preliminar de ERAS-0015 en monoterapia [...]",
-      "resumen": "Solid Tumors",
-      "enfermedad": "",
-      "estado": "No iniciado",
-      "fecha": "21/09/2026",
-      "fecha_iso": "2026-09-21T09:00:00+00:00",
-      "identificador": "2026-525794-39-00 [ ERAS-0015-01 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34474",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525794-39-00 [ ERAS-0015-01 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Solid Tumors</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34474\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "9756488caf8889646c66ce2417887dab10a0f27f9b088b8f412ef36b54926e79",
       "titulo": "Ensayo de fase III, aleatorizado, doble ciego y comparativo directo para evaluar la eficacia y la seguridad del LYT 100 (deupirfenidona) en comparación con la pirfenidona a las 52 semanas en adultos c[...]",
       "titulo_completo": "Ensayo de fase III, aleatorizado, doble ciego y comparativo directo para evaluar la eficacia y la seguridad del LYT 100 (deupirfenidona) en comparación con la pirfenidona a las 52 semanas en adultos c[...]",
@@ -185,18 +311,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524493-42-00 [ LYT-100-2025-301 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la eficacia y la seguridad del LYT 100 (deupirfenidona) en comparación con la pirfenidona en adultos con fibrosis pulmonar idiopática (SURPASS-IPF)</p><p><strong>Enfermedad investigada:</strong> Fibrosis pulmonar idiopática</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34478\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "fb89009b92fec83b9b163178aa808b80bb088f9e0ab4d322063253cf314903af",
-      "titulo": "Estudio de fase II, multicéntrico, aleatorizado, doble ciego y controlado con placebo para evaluar la seguridad, la tolerabilidad y la eficacia preliminar del soquelitinib en la dermatitis atópica de [...]",
-      "titulo_completo": "Estudio de fase II, multicéntrico, aleatorizado, doble ciego y controlado con placebo para evaluar la seguridad, la tolerabilidad y la eficacia preliminar del soquelitinib en la dermatitis atópica de [...]",
-      "resumen": "Seguridad, tolerabilidad y eficacia preliminar del soquelitinib en participantes con DA de moderada a grave",
-      "enfermedad": "Dermatitis Atópica (DA)",
+      "id": "55d3cf6df01b280d8498eebaa56b9cf9254c07278552e8710f05d5738df9344b",
+      "titulo": "Estudio abierto de fase I, el primero en seres humanos, para evaluar la seguridad, la tolerabilidad, la farmacocinética (FC), farmacodinámica (FD) y la eficacia preliminar de ERAS-0015 en monoterapia [...]",
+      "titulo_completo": "Estudio abierto de fase I, el primero en seres humanos, para evaluar la seguridad, la tolerabilidad, la farmacocinética (FC), farmacodinámica (FD) y la eficacia preliminar de ERAS-0015 en monoterapia [...]",
+      "resumen": "Solid Tumors",
+      "enfermedad": "",
       "estado": "No iniciado",
       "fecha": "21/09/2026",
       "fecha_iso": "2026-09-21T09:00:00+00:00",
-      "identificador": "2025-524384-20-00 [ CPI-818-006 ]",
+      "identificador": "2026-525794-39-00 [ ERAS-0015-01 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34483",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524384-20-00 [ CPI-818-006 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Seguridad, tolerabilidad y eficacia preliminar del soquelitinib en participantes con DA de moderada a grave</p><p><strong>Enfermedad investigada:</strong> Dermatitis Atópica (DA)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34483\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34474",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525794-39-00 [ ERAS-0015-01 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Solid Tumors</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34474\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "1c2476b7a1dca2bfc50fd2f52b31582e75f20518929135918f6a67509f841479",
@@ -211,6 +337,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34475",
       "descripcion": "<p><strong>Identificador:</strong> 2025-524202-15-00 [ GCT1184-07 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la eficacia y la seguridad de Rina-S con o sin bevacizumab en comparación con la quimioterapia con un derivado del platino elegida por el investigador con o sin bevacizumab como t[...]</p><p><strong>Enfermedad investigada:</strong> Cáncer de ovario sensible a derivados del platino recidivante.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34475\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "fb89009b92fec83b9b163178aa808b80bb088f9e0ab4d322063253cf314903af",
+      "titulo": "Estudio de fase II, multicéntrico, aleatorizado, doble ciego y controlado con placebo para evaluar la seguridad, la tolerabilidad y la eficacia preliminar del soquelitinib en la dermatitis atópica de [...]",
+      "titulo_completo": "Estudio de fase II, multicéntrico, aleatorizado, doble ciego y controlado con placebo para evaluar la seguridad, la tolerabilidad y la eficacia preliminar del soquelitinib en la dermatitis atópica de [...]",
+      "resumen": "Seguridad, tolerabilidad y eficacia preliminar del soquelitinib en participantes con DA de moderada a grave",
+      "enfermedad": "Dermatitis Atópica (DA)",
+      "estado": "No iniciado",
+      "fecha": "21/09/2026",
+      "fecha_iso": "2026-09-21T09:00:00+00:00",
+      "identificador": "2025-524384-20-00 [ CPI-818-006 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34483",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524384-20-00 [ CPI-818-006 ]</p><p><strong>Fecha de autorización:</strong> 21/09/2026</p><p><strong>Resumen:</strong> Seguridad, tolerabilidad y eficacia preliminar del soquelitinib en participantes con DA de moderada a grave</p><p><strong>Enfermedad investigada:</strong> Dermatitis Atópica (DA)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34483\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "295213afbb054751ea562cfa9bf52c8bc15816f8b9e704d7e9dd5f1da4c1c5e2",
@@ -367,20 +507,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524496-23-00 [ CLOU064Q12201 ]</p><p><strong>Fecha de autorización:</strong> 16/09/2026</p><p><strong>Resumen:</strong> Estudio de fase 2 para investigar la eficacia, la seguridad y la tolerabilidad de remibrutinib (LOU064) en pacientes adultos con rosácea papulopustular.</p><p><strong>Enfermedad investigada:</strong> Rosácea papulopustular</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34470\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "452155b0b25edd3163cf87fae16b96194b036c57707a824dfb7f2a545a7e5d7a",
-      "titulo": "Ensayo de intervención, aleatorizado, doble ciego, con grupos paralelos, comparativo con placebo y con dosis flexibles del Lu AF28996 en adultos con enfermedad de Parkinson que presentan fluctuaciones[...]",
-      "titulo_completo": "Ensayo de intervención, aleatorizado, doble ciego, con grupos paralelos, comparativo con placebo y con dosis flexibles del Lu AF28996 en adultos con enfermedad de Parkinson que presentan fluctuaciones[...]",
-      "resumen": "Ensayo que investiga el Lu AF28996 en adultos con enfermedad de Parkinson que tienen fluctuaciones motoras.",
-      "enfermedad": "Enfermedad de Parkinson",
-      "estado": "No iniciado",
-      "fecha": "16/09/2026",
-      "fecha_iso": "2026-09-16T09:00:00+00:00",
-      "identificador": "2025-524655-30-00 [ DARE2, 20309A ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34460",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524655-30-00 [ DARE2, 20309A ]</p><p><strong>Fecha de autorización:</strong> 16/09/2026</p><p><strong>Resumen:</strong> Ensayo que investiga el Lu AF28996 en adultos con enfermedad de Parkinson que tienen fluctuaciones motoras.</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Parkinson</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34460\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "c73f67e2387c2ba9cbf9a353ae04a62306c37aa9ec897c4c141886d493b6059f",
       "titulo": "Ensayo clínico para obtener información sobre los efectos de IEV407 cuando se administra solo o con terapia endocrina en personas con cáncer de mama avanzado.",
       "titulo_completo": "Ensayo clínico para obtener información sobre los efectos de IEV407 cuando se administra solo o con terapia endocrina en personas con cáncer de mama avanzado.",
@@ -393,6 +519,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34465",
       "descripcion": "<p><strong>Identificador:</strong> 2025-522707-26-00 [ CIEV407A12101 ]</p><p><strong>Fecha de autorización:</strong> 16/09/2026</p><p><strong>Resumen:</strong> Cáncer de mama avanzado con RH+/HER2-.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34465\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "452155b0b25edd3163cf87fae16b96194b036c57707a824dfb7f2a545a7e5d7a",
+      "titulo": "Ensayo de intervención, aleatorizado, doble ciego, con grupos paralelos, comparativo con placebo y con dosis flexibles del Lu AF28996 en adultos con enfermedad de Parkinson que presentan fluctuaciones[...]",
+      "titulo_completo": "Ensayo de intervención, aleatorizado, doble ciego, con grupos paralelos, comparativo con placebo y con dosis flexibles del Lu AF28996 en adultos con enfermedad de Parkinson que presentan fluctuaciones[...]",
+      "resumen": "Ensayo que investiga el Lu AF28996 en adultos con enfermedad de Parkinson que tienen fluctuaciones motoras.",
+      "enfermedad": "Enfermedad de Parkinson",
+      "estado": "No iniciado",
+      "fecha": "16/09/2026",
+      "fecha_iso": "2026-09-16T09:00:00+00:00",
+      "identificador": "2025-524655-30-00 [ DARE2, 20309A ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34460",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524655-30-00 [ DARE2, 20309A ]</p><p><strong>Fecha de autorización:</strong> 16/09/2026</p><p><strong>Resumen:</strong> Ensayo que investiga el Lu AF28996 en adultos con enfermedad de Parkinson que tienen fluctuaciones motoras.</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Parkinson</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34460\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "2505cba96b00da804171b8bdc029feffef4d61ab898b79604ec44da0fee984f5",
@@ -521,18 +661,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525489-23-00 [ 20250046 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Ensayo de fase 3 de tarlatamab (subcutáneo frente a intravenoso) en cáncer de pulmón microcítico en estadio extenso tras quimioterapia de primera línea basada en platino (DeLLphi-315)</p><p><strong>Enfermedad investigada:</strong> Cáncer de pulmón microcítico en estadio extenso en recaída tras quimioterapia de primera línea basada en platino</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34450\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "f1bd03a0320488117e7742622d9122cc5a81e056b9d1778ef44b4333a0882348",
-      "titulo": "PRIMER ESTUDIO EN EL SER HUMANO EN FASE I, ABIERTO Y MULTICÉNTRICO PARA INVESTIGAR LA SEGURIDAD, TOLERABILIDAD, FARMACOCINÉTICA Y ACTIVIDAD ANTITUMORAL PRELIMINAR DE SIM0505 EN PARTICIPANTES ADULTOS C[...]",
-      "titulo_completo": "PRIMER ESTUDIO EN EL SER HUMANO EN FASE I, ABIERTO Y MULTICÉNTRICO PARA INVESTIGAR LA SEGURIDAD, TOLERABILIDAD, FARMACOCINÉTICA Y ACTIVIDAD ANTITUMORAL PRELIMINAR DE SIM0505 EN PARTICIPANTES ADULTOS C[...]",
-      "resumen": "Tumóres sólidos avanzados",
-      "enfermedad": "",
-      "estado": "No iniciado",
+      "id": "8369a52d5b2e9d5d57e98d0daedc925f3b935f696ef788e278c3de5d0f9a0780",
+      "titulo": "Estudio fase 2, aleatorizado, abierto, para evaluar la seguridad, tolerabilidad y eficacia de la combinación de Imzokitug con Pumitamig y quimioterapia con doblete de platino frente a Pumitamig con qu[...]",
+      "titulo_completo": "Estudio fase 2, aleatorizado, abierto, para evaluar la seguridad, tolerabilidad y eficacia de la combinación de Imzokitug con Pumitamig y quimioterapia con doblete de platino frente a Pumitamig con qu[...]",
+      "resumen": "Estudio fase 2 sobre la combinación de Imzokitug con Pumitamig y quimioterapia basada en doblete de platino como tratamiento de primera línea para participantes con cáncer de pulmón no microcítico (CP[...]",
+      "enfermedad": "Cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico.",
+      "estado": "Reclutando",
       "fecha": "10/09/2026",
       "fecha_iso": "2026-09-10T09:00:00+00:00",
-      "identificador": "2026-525888-40-00 [ SIM0505-101 ]",
+      "identificador": "2026-525170-19-00 [ CA0521000 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34453",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525888-40-00 [ SIM0505-101 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Tumóres sólidos avanzados</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34453\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34452",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525170-19-00 [ CA0521000 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Estudio fase 2 sobre la combinación de Imzokitug con Pumitamig y quimioterapia basada en doblete de platino como tratamiento de primera línea para participantes con cáncer de pulmón no microcítico (CP[...]</p><p><strong>Enfermedad investigada:</strong> Cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico.</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34452\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "6e20aae47c44d0bccab5197c588acb824193414d23e9b3fe7a83aa71fb511fec",
@@ -549,18 +689,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524649-28-00 [ LCI699-RECAG-CL-0615 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Osilodrostat en pacientes con hipertensión causada por hipercortisolemia debida al síndrome de Cushing</p><p><strong>Enfermedad investigada:</strong> Síndrome de Cushing</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34451\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "8369a52d5b2e9d5d57e98d0daedc925f3b935f696ef788e278c3de5d0f9a0780",
-      "titulo": "Estudio fase 2, aleatorizado, abierto, para evaluar la seguridad, tolerabilidad y eficacia de la combinación de Imzokitug con Pumitamig y quimioterapia con doblete de platino frente a Pumitamig con qu[...]",
-      "titulo_completo": "Estudio fase 2, aleatorizado, abierto, para evaluar la seguridad, tolerabilidad y eficacia de la combinación de Imzokitug con Pumitamig y quimioterapia con doblete de platino frente a Pumitamig con qu[...]",
-      "resumen": "Estudio fase 2 sobre la combinación de Imzokitug con Pumitamig y quimioterapia basada en doblete de platino como tratamiento de primera línea para participantes con cáncer de pulmón no microcítico (CP[...]",
-      "enfermedad": "Cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico.",
-      "estado": "Reclutando",
+      "id": "f1bd03a0320488117e7742622d9122cc5a81e056b9d1778ef44b4333a0882348",
+      "titulo": "PRIMER ESTUDIO EN EL SER HUMANO EN FASE I, ABIERTO Y MULTICÉNTRICO PARA INVESTIGAR LA SEGURIDAD, TOLERABILIDAD, FARMACOCINÉTICA Y ACTIVIDAD ANTITUMORAL PRELIMINAR DE SIM0505 EN PARTICIPANTES ADULTOS C[...]",
+      "titulo_completo": "PRIMER ESTUDIO EN EL SER HUMANO EN FASE I, ABIERTO Y MULTICÉNTRICO PARA INVESTIGAR LA SEGURIDAD, TOLERABILIDAD, FARMACOCINÉTICA Y ACTIVIDAD ANTITUMORAL PRELIMINAR DE SIM0505 EN PARTICIPANTES ADULTOS C[...]",
+      "resumen": "Tumóres sólidos avanzados",
+      "enfermedad": "",
+      "estado": "No iniciado",
       "fecha": "10/09/2026",
       "fecha_iso": "2026-09-10T09:00:00+00:00",
-      "identificador": "2026-525170-19-00 [ CA0521000 ]",
+      "identificador": "2026-525888-40-00 [ SIM0505-101 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34452",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525170-19-00 [ CA0521000 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Estudio fase 2 sobre la combinación de Imzokitug con Pumitamig y quimioterapia basada en doblete de platino como tratamiento de primera línea para participantes con cáncer de pulmón no microcítico (CP[...]</p><p><strong>Enfermedad investigada:</strong> Cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico.</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34452\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34453",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525888-40-00 [ SIM0505-101 ]</p><p><strong>Fecha de autorización:</strong> 10/09/2026</p><p><strong>Resumen:</strong> Tumóres sólidos avanzados</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34453\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "82c407113af711cde76a66f65266b5e9a34576d32497f6836755f98ed6ffc406",
