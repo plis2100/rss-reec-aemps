@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T15:53:13.147817+00:00",
+  "actualizado": "2026-10-02T20:48:30.178533+00:00",
   "cantidad": 85,
   "estudios": [
     {
@@ -31,20 +31,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526261-14-00 [ TKS2001 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> PHOENIX-ECP: Fotoaféresis extracorpórea para la colitis o la hepatitis inmunorrelacionadas en el melanoma avanzado con respuesta inadecuada a los corticoides</p><p><strong>Enfermedad investigada:</strong> Colitis y/o hepatitis relacionadas con el sistema inmunitario con respuesta inadecuada a los corticosteroides en participantes con melanoma irresecable o metastásico tratados con inhibidores de puntos[...]</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34507\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "fbcfd735e74ebcec091c75f2541cd0254955bdf1012f3bf10faa9f0f63870e32",
-      "titulo": "Estudio de fase I/II/III, abierto, de aumento escalonado de la dosis, de ampliación de la dosis, aleatorizado y controlado para evaluar la seguridad y la eficacia de la terapia génica con ATSN201 en p[...]",
-      "titulo_completo": "Estudio de fase I/II/III, abierto, de aumento escalonado de la dosis, de ampliación de la dosis, aleatorizado y controlado para evaluar la seguridad y la eficacia de la terapia génica con ATSN201 en p[...]",
-      "resumen": "Estudio de fase I/II/II de la terapia génica ATSN-201 en sujetos con retinosquisis ligada al cromosoma X asociada a RS1",
-      "enfermedad": "Distrofia retiniana hereditaria debida a una disfunción en el gen humano de la retinosquisina (RS1).",
-      "estado": "No iniciado",
-      "fecha": "30/09/2026",
-      "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2026-525886-38-00 [ ATSN-201-1 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34505",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525886-38-00 [ ATSN-201-1 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio de fase I/II/II de la terapia génica ATSN-201 en sujetos con retinosquisis ligada al cromosoma X asociada a RS1</p><p><strong>Enfermedad investigada:</strong> Distrofia retiniana hereditaria debida a una disfunción en el gen humano de la retinosquisina (RS1).</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34505\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "f08ac705d885f65125393f75ec5c80f427e37487d2b0296e0eabc0ab1f5da047",
       "titulo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
       "titulo_completo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
@@ -57,6 +43,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34509",
       "descripcion": "<p><strong>Identificador:</strong> 2024-518348-19-00 [ CFML539A12101 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> cáncer gástrico o en la unión gastroesofágica (UGE)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34509\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "fbcfd735e74ebcec091c75f2541cd0254955bdf1012f3bf10faa9f0f63870e32",
+      "titulo": "Estudio de fase I/II/III, abierto, de aumento escalonado de la dosis, de ampliación de la dosis, aleatorizado y controlado para evaluar la seguridad y la eficacia de la terapia génica con ATSN201 en p[...]",
+      "titulo_completo": "Estudio de fase I/II/III, abierto, de aumento escalonado de la dosis, de ampliación de la dosis, aleatorizado y controlado para evaluar la seguridad y la eficacia de la terapia génica con ATSN201 en p[...]",
+      "resumen": "Estudio de fase I/II/II de la terapia génica ATSN-201 en sujetos con retinosquisis ligada al cromosoma X asociada a RS1",
+      "enfermedad": "Distrofia retiniana hereditaria debida a una disfunción en el gen humano de la retinosquisina (RS1).",
+      "estado": "No iniciado",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "identificador": "2026-525886-38-00 [ ATSN-201-1 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34505",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525886-38-00 [ ATSN-201-1 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio de fase I/II/II de la terapia génica ATSN-201 en sujetos con retinosquisis ligada al cromosoma X asociada a RS1</p><p><strong>Enfermedad investigada:</strong> Distrofia retiniana hereditaria debida a una disfunción en el gen humano de la retinosquisina (RS1).</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34505\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "0b942d3388bd061ee2c678b919fbf5444c9eed1c4708d58d5a5e52e96b055b4f",
@@ -73,20 +73,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525216-34-00 [ EXPD-101-201 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Enfermedad investigada:</strong> Exacerbaciones de la enfermedad pulmonar obstructiva crónica (EPOC)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34508\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "7a3327edf0ed9e27ccd2462de91503f97d5a2f4134dc00e8ef0cd9e1643925ed",
-      "titulo": "Estudio de fase III, doble ciego y controlado con placebo para investigar la eficacia y la seguridad de olatorepatida, un agonista de los receptores de GLP-1 y GIP, en participantes que viven con sobr[...]",
-      "titulo_completo": "Estudio de fase III, doble ciego y controlado con placebo para investigar la eficacia y la seguridad de olatorepatida, un agonista de los receptores de GLP-1 y GIP, en participantes que viven con sobr[...]",
-      "resumen": "Eficacia y seguridad de olatorepatida en adultos con sobrepeso u obesidad sin diabetes",
-      "enfermedad": "Sobrepeso u obesidad sin diabetes",
-      "estado": "No iniciado",
-      "fecha": "30/09/2026",
-      "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2025-524861-26-00 [ HS-20094-OB-2570 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34513",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524861-26-00 [ HS-20094-OB-2570 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Eficacia y seguridad de olatorepatida en adultos con sobrepeso u obesidad sin diabetes</p><p><strong>Enfermedad investigada:</strong> Sobrepeso u obesidad sin diabetes</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34513\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "5602ff7d76be99c92224ce2461207f4420a8d07c9e4d69f2027bdeeea987cfe2",
       "titulo": "Estudio de fase I/II, multicéntrico, primero en seres humanos, de aumento escalonado y expansión de la dosis, para evaluar CHM-029, en monoterapia y en combinación con tratamientos estándar, en partic[...]",
       "titulo_completo": "Estudio de fase I/II, multicéntrico, primero en seres humanos, de aumento escalonado y expansión de la dosis, para evaluar CHM-029, en monoterapia y en combinación con tratamientos estándar, en partic[...]",
@@ -99,6 +85,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34512",
       "descripcion": "<p><strong>Identificador:</strong> 2026-526409-14-00 [ CHM-029-01 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio de CHM-029 en pacientes con leucemia mieloide aguda (LMA)</p><p><strong>Enfermedad investigada:</strong> Leucemia mieloide aguda</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34512\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "7a3327edf0ed9e27ccd2462de91503f97d5a2f4134dc00e8ef0cd9e1643925ed",
+      "titulo": "Estudio de fase III, doble ciego y controlado con placebo para investigar la eficacia y la seguridad de olatorepatida, un agonista de los receptores de GLP-1 y GIP, en participantes que viven con sobr[...]",
+      "titulo_completo": "Estudio de fase III, doble ciego y controlado con placebo para investigar la eficacia y la seguridad de olatorepatida, un agonista de los receptores de GLP-1 y GIP, en participantes que viven con sobr[...]",
+      "resumen": "Eficacia y seguridad de olatorepatida en adultos con sobrepeso u obesidad sin diabetes",
+      "enfermedad": "Sobrepeso u obesidad sin diabetes",
+      "estado": "No iniciado",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "identificador": "2025-524861-26-00 [ HS-20094-OB-2570 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34513",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524861-26-00 [ HS-20094-OB-2570 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Eficacia y seguridad de olatorepatida en adultos con sobrepeso u obesidad sin diabetes</p><p><strong>Enfermedad investigada:</strong> Sobrepeso u obesidad sin diabetes</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34513\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "c341d28eb46d7004dcfb14da71f953e1add70d8188559aa7bc8d34af9a23a64a",
@@ -171,18 +171,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2024-520409-38-00 [ ANB033-101 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Celiac diseaseEosinophilic esophagitis (EoE)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34520\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "e7a9ab4579a2a545cf687440e5f89057fff530feaf11b9f1bbe0d4332b3965ae",
-      "titulo": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS: PLASMA/BONE PHARMACOKINETICS WITH CONTINUOUS VS INTERMITTENT INFUSION",
-      "titulo_completo": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS: PLASMA/BONE PHARMACOKINETICS WITH CONTINUOUS VS INTERMITTENT INFUSION",
-      "resumen": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS",
-      "enfermedad": "BONE AND JOINT INFECTIONS",
+      "id": "8b7b3c08ae61e44ce74c02a82a181dd0a80a259233e1823b5f83a0b70e434403",
+      "titulo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
+      "titulo_completo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
+      "resumen": "Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.",
+      "enfermedad": "Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada",
       "estado": "No iniciado",
       "fecha": "30/09/2026",
       "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2026-527210-22-00 [ MEROBONE ]",
+      "identificador": "2026-526100-73-00 [ MG01-SIT-093 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34523",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-527210-22-00 [ MEROBONE ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS</p><p><strong>Enfermedad investigada:</strong> BONE AND JOINT INFECTIONS</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34523\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34516",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526100-73-00 [ MG01-SIT-093 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.</p><p><strong>Enfermedad investigada:</strong> Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34516\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "48f32e18e1d54f71083557a24f2d93c38d03e13df77cb4e85486395432dacfef",
@@ -199,18 +199,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-522648-42-01 [ CRN04894-331 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Enfermedad investigada:</strong> ¿ Síndrome de Cushing dependiente de ACTH. ¿ Síndrome de Cushing dependiente de la hipófisis.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34517\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "8b7b3c08ae61e44ce74c02a82a181dd0a80a259233e1823b5f83a0b70e434403",
-      "titulo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
-      "titulo_completo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
-      "resumen": "Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.",
-      "enfermedad": "Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada",
+      "id": "e7a9ab4579a2a545cf687440e5f89057fff530feaf11b9f1bbe0d4332b3965ae",
+      "titulo": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS: PLASMA/BONE PHARMACOKINETICS WITH CONTINUOUS VS INTERMITTENT INFUSION",
+      "titulo_completo": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS: PLASMA/BONE PHARMACOKINETICS WITH CONTINUOUS VS INTERMITTENT INFUSION",
+      "resumen": "OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS",
+      "enfermedad": "BONE AND JOINT INFECTIONS",
       "estado": "No iniciado",
       "fecha": "30/09/2026",
       "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2026-526100-73-00 [ MG01-SIT-093 ]",
+      "identificador": "2026-527210-22-00 [ MEROBONE ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34516",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-526100-73-00 [ MG01-SIT-093 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.</p><p><strong>Enfermedad investigada:</strong> Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34516\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34523",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-527210-22-00 [ MEROBONE ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> OPTIMIZING THE TREATMENT WITH MEROPENEM FOR FOREIGN-BODY BONE AND JOINT INFECTIONS</p><p><strong>Enfermedad investigada:</strong> BONE AND JOINT INFECTIONS</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34523\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "b88ff46803d30ed24d081e6cdd2799ed122052628b1ff07059faf5b061a47e16",
@@ -479,18 +479,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-522984-14-00 [ ID-064B301 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Un ensayo de investigación para evaluar si cenerimod es eficaz y seguro para tratar la nefritis lúpica activa, añadido al tratamiento de base.</p><p><strong>Enfermedad investigada:</strong> Lupus eritematoso sistémico y nefritis lúpica activa.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34486\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "eb4b9613704a4dbcfd4360b23f88f879bbf98090cbc02d7ff57882806aa2eb00",
-      "titulo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
-      "titulo_completo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
-      "resumen": "Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante",
-      "enfermedad": "Enfermedad de Crohn fibroestenosante",
+      "id": "2c4d62b0ffd5bf4b91b56cfcf954f40f4bdcd8687c274825fb2b9c5133c75f93",
+      "titulo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
+      "titulo_completo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
+      "resumen": "Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida",
+      "enfermedad": "Manejo crónico del peso",
       "estado": "No iniciado",
       "fecha": "23/09/2026",
       "fecha_iso": "2026-09-23T09:00:00+00:00",
-      "identificador": "2026-525197-19-00 [ AGMB129-01-CL-201 ]",
+      "identificador": "2026-525408-82-00 [ 20250197 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34493",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525197-19-00 [ AGMB129-01-CL-201 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Crohn fibroestenosante</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34493\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34495",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525408-82-00 [ 20250197 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida</p><p><strong>Enfermedad investigada:</strong> Manejo crónico del peso</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34495\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "67ba90da182fbbf2ba094fe6dfbc96fb48868ed891522561758074d2a844b9be",
@@ -507,32 +507,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524469-25-00 [ AC01-02 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la seguridad y eficacia de AC01 en comparación con placebo en pacientes con insuficiencia cardiaca crónica.</p><p><strong>Enfermedad investigada:</strong> insuficiencia cardiaca crónica avanzada con función sistólica reducida (IC-FSr).</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34494\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "2c4d62b0ffd5bf4b91b56cfcf954f40f4bdcd8687c274825fb2b9c5133c75f93",
-      "titulo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
-      "titulo_completo": "Ensayo de extensión de fase 3, aleatorizado y doble ciego para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida en participantes con obesidad o sobrepeso",
-      "resumen": "Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida",
-      "enfermedad": "Manejo crónico del peso",
+      "id": "cc43559a533cb918dbd467d53e8ac165fe0f58c44ef5dea00b2cb3216a2ad2ec",
+      "titulo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
+      "titulo_completo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
+      "resumen": "Efecto de orforglipron en comparación con dulaglutida en participantes pediátricos con diabetes tipo 2 (ACHIEVE-PEDS)",
+      "enfermedad": "Diabetes mellitus tipo 2",
       "estado": "No iniciado",
       "fecha": "23/09/2026",
       "fecha_iso": "2026-09-23T09:00:00+00:00",
-      "identificador": "2026-525408-82-00 [ 20250197 ]",
+      "identificador": "2025-524811-35-00 [ J2A-MC-GZGY ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34495",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525408-82-00 [ 20250197 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Ensayo de extensión para evaluar la eficacia, seguridad y tolerabilidad a largo plazo de maridebart cafraglutida</p><p><strong>Enfermedad investigada:</strong> Manejo crónico del peso</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34495\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "b3ce946067ccaebfb98b711b376481c56bbb1c64f0f6161387e295463b814cfb",
-      "titulo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
-      "titulo_completo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
-      "resumen": "Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes",
-      "enfermedad": "Anemia de células falciformes",
-      "estado": "No iniciado",
-      "fecha": "23/09/2026",
-      "fecha_iso": "2026-09-23T09:00:00+00:00",
-      "identificador": "2025-524464-38-00 [ NN7535-8365 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34492",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524464-38-00 [ NN7535-8365 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes</p><p><strong>Enfermedad investigada:</strong> Anemia de células falciformes</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34492\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34480",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524811-35-00 [ J2A-MC-GZGY ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Efecto de orforglipron en comparación con dulaglutida en participantes pediátricos con diabetes tipo 2 (ACHIEVE-PEDS)</p><p><strong>Enfermedad investigada:</strong> Diabetes mellitus tipo 2</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34480\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "081fe7d24e45802d6e9a812c205f47517250d270a6f7dc14be6196fd88ef496d",
@@ -549,18 +535,32 @@
       "descripcion": "<p><strong>Identificador:</strong> 2024-518450-16-00 [ CT-P1-002 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Public title :A Phase 1b/2a trial to evaluate Invobenitug also known as Procizumab (PCZ; AK1967) in critical cardiovascular care.</p><p><strong>Enfermedad investigada:</strong> Cardiogenic shock due to Acute Coronary Syndrome, cardiogenic shock of septic origin or cardiogenic shock due to Acute decompensated Heart Failure</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34499\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "cc43559a533cb918dbd467d53e8ac165fe0f58c44ef5dea00b2cb3216a2ad2ec",
-      "titulo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
-      "titulo_completo": "Un estudio de fase 3, aleatorizado y abierto para investigar eficacia, seguridad y farmacocinética de orforglipron oral una vez al día en comparación con dulaglutida una vez a la semana en participant[...]",
-      "resumen": "Efecto de orforglipron en comparación con dulaglutida en participantes pediátricos con diabetes tipo 2 (ACHIEVE-PEDS)",
-      "enfermedad": "Diabetes mellitus tipo 2",
+      "id": "b3ce946067ccaebfb98b711b376481c56bbb1c64f0f6161387e295463b814cfb",
+      "titulo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
+      "titulo_completo": "Estudio en fase III global, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de etavopivat en niños con anemia de células falciformes",
+      "resumen": "Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes",
+      "enfermedad": "Anemia de células falciformes",
       "estado": "No iniciado",
       "fecha": "23/09/2026",
       "fecha_iso": "2026-09-23T09:00:00+00:00",
-      "identificador": "2025-524811-35-00 [ J2A-MC-GZGY ]",
+      "identificador": "2025-524464-38-00 [ NN7535-8365 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34480",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524811-35-00 [ J2A-MC-GZGY ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Efecto de orforglipron en comparación con dulaglutida en participantes pediátricos con diabetes tipo 2 (ACHIEVE-PEDS)</p><p><strong>Enfermedad investigada:</strong> Diabetes mellitus tipo 2</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34480\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34492",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524464-38-00 [ NN7535-8365 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar el funcionamiento de etavopivat en niños con anemia de células falciformes</p><p><strong>Enfermedad investigada:</strong> Anemia de células falciformes</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34492\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "eb4b9613704a4dbcfd4360b23f88f879bbf98090cbc02d7ff57882806aa2eb00",
+      "titulo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
+      "titulo_completo": "Estudio de fase 2b, aleatorizado, comparativo con un placebo, con enmascaramiento doble, de búsqueda de dosis, para evaluar la eficacia y la seguridad de ontunisertib en pacientes con enfermedad de Cr[...]",
+      "resumen": "Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante",
+      "enfermedad": "Enfermedad de Crohn fibroestenosante",
+      "estado": "No iniciado",
+      "fecha": "23/09/2026",
+      "fecha_iso": "2026-09-23T09:00:00+00:00",
+      "identificador": "2026-525197-19-00 [ AGMB129-01-CL-201 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34493",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525197-19-00 [ AGMB129-01-CL-201 ]</p><p><strong>Fecha de autorización:</strong> 23/09/2026</p><p><strong>Resumen:</strong> Estudio clínico para evaluar la eficacia y la seguridad de ontunisertib en comparación con un placebo en pacientes con enfermedad de Crohn fibroestenosante</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Crohn fibroestenosante</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34493\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "a6b0f5c4f683456bee1f0e240d10966c5915171d4fdd35f6d12d2828ba23daa7",
