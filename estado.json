@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T05:01:37.601675+00:00",
+  "actualizado": "2026-10-14T10:18:30.997371+00:00",
   "cantidad": 107,
   "estudios": [
     {
@@ -45,20 +45,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-527632-13-00 [ IMIMFCTL/TRAM-MAD ]</p><p><strong>Fecha de autorización:</strong> 13/10/2026</p><p><strong>Resumen:</strong> participantes sanos</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34547\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "5fecc7426320c90faf6e61faf5a44c217fc19b8b07d51a28fd41471f3bcc426a",
-      "titulo": "Ensayo fase III, aleatorizado, doble ciego y de diseño factorial para evaluar el efecto de la combinación de dosis fija de laroprovstat/rosuvastatina en comparación con laroprovstat, rosuvastatina y p[...]",
-      "titulo_completo": "Ensayo fase III, aleatorizado, doble ciego y de diseño factorial para evaluar el efecto de la combinación de dosis fija de laroprovstat/rosuvastatina en comparación con laroprovstat, rosuvastatina y p[...]",
-      "resumen": "Ensayo fase III para evaluar el efecto de la combinación de dosis fijas (CDF)de laroprovstat/rosuvastatinaen comparación con laroprovstat, rosuvastatina y placebo sobre el colesterol LDLen pacientes q[...]",
-      "enfermedad": "Hipercolesterolemia",
-      "estado": "No iniciado",
-      "fecha": "09/10/2026",
-      "fecha_iso": "2026-10-09T09:00:00+00:00",
-      "identificador": "2026-525642-30-00 [ D7961C00002 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34535",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525642-30-00 [ D7961C00002 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Ensayo fase III para evaluar el efecto de la combinación de dosis fijas (CDF)de laroprovstat/rosuvastatinaen comparación con laroprovstat, rosuvastatina y placebo sobre el colesterol LDLen pacientes q[...]</p><p><strong>Enfermedad investigada:</strong> Hipercolesterolemia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34535\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "792ba8598d3ce157e9a06db6a6f333a10ed214b095ec1bdc1476c44edac01015",
       "titulo": "Estudio en fase III, multicéntrico, aleatorizado, doble ciego y comparativo con placebo para evaluar la eficacia y la seguridad del telitacicept en participantes adultos con enfermedad de Sjögren prim[...]",
       "titulo_completo": "Estudio en fase III, multicéntrico, aleatorizado, doble ciego y comparativo con placebo para evaluar la eficacia y la seguridad del telitacicept en participantes adultos con enfermedad de Sjögren prim[...]",
@@ -71,6 +57,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34544",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525556-28-00 [ RC18G007 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Estudio en fase III del telitacicept en la enfermedad de Sjögren primaria activa</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Sjögren primaria activa</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34544\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "5fecc7426320c90faf6e61faf5a44c217fc19b8b07d51a28fd41471f3bcc426a",
+      "titulo": "Ensayo fase III, aleatorizado, doble ciego y de diseño factorial para evaluar el efecto de la combinación de dosis fija de laroprovstat/rosuvastatina en comparación con laroprovstat, rosuvastatina y p[...]",
+      "titulo_completo": "Ensayo fase III, aleatorizado, doble ciego y de diseño factorial para evaluar el efecto de la combinación de dosis fija de laroprovstat/rosuvastatina en comparación con laroprovstat, rosuvastatina y p[...]",
+      "resumen": "Ensayo fase III para evaluar el efecto de la combinación de dosis fijas (CDF)de laroprovstat/rosuvastatinaen comparación con laroprovstat, rosuvastatina y placebo sobre el colesterol LDLen pacientes q[...]",
+      "enfermedad": "Hipercolesterolemia",
+      "estado": "No iniciado",
+      "fecha": "09/10/2026",
+      "fecha_iso": "2026-10-09T09:00:00+00:00",
+      "identificador": "2026-525642-30-00 [ D7961C00002 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34535",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525642-30-00 [ D7961C00002 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Ensayo fase III para evaluar el efecto de la combinación de dosis fijas (CDF)de laroprovstat/rosuvastatinaen comparación con laroprovstat, rosuvastatina y placebo sobre el colesterol LDLen pacientes q[...]</p><p><strong>Enfermedad investigada:</strong> Hipercolesterolemia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34535\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "5654827b508b5f9d2fe480b1e295e4c3bcd994b73e7079948f03ac3ef67df1f2",
@@ -115,20 +115,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-522271-29-00 [ CVAY736A22301 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Un ensayo clínico para conocer mejor los efectos de VAY736 en personas con la enfermedad de Sjögren.</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Sjögren.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34536\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "60aa6dc34fedf9c229a0d31cda8923128782d5909d31b3eb7519c56b30c6bc65",
-      "titulo": "JNJ¿98768111 para el cáncer de próstata avanzado",
-      "titulo_completo": "JNJ¿98768111 para el cáncer de próstata avanzado",
-      "resumen": "Cáncer de próstata avanzado",
-      "enfermedad": "",
-      "estado": "No iniciado",
-      "fecha": "09/10/2026",
-      "fecha_iso": "2026-10-09T09:00:00+00:00",
-      "identificador": "2026-525894-37-00 [ 98768111PCR1001 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34539",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525894-37-00 [ 98768111PCR1001 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Cáncer de próstata avanzado</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34539\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "87a4d11853a6ca9624509dd9e262240c7a61b0c226e17b35ece6584ed93c1bf6",
       "titulo": "Estudio de fase II, multicéntrico, aleatorizado y controlado con placebo para evaluar la eficacia, la seguridad y la tolerabilidad de ARGX-121 administrado por vía subcutánea en participantes adultos [...]",
       "titulo_completo": "Estudio de fase II, multicéntrico, aleatorizado y controlado con placebo para evaluar la eficacia, la seguridad y la tolerabilidad de ARGX-121 administrado por vía subcutánea en participantes adultos [...]",
@@ -143,18 +129,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525638-43-00 [ ARGX-121-26-IgAN2001 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Estudio para evaluar el efecto de ARGX-121 sobre el cambio en la proteinuria en participantes adultos con nefropatía por inmunoglobulina A (IgAN).</p><p><strong>Enfermedad investigada:</strong> Nefropatía por inmunoglobulina A (IgAN)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34540\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "3c7c5c5e58b8ecd917be4c2f6c57b77755b305f0c2d4b1f4a34509ac418039ad",
-      "titulo": "A Phase 2a, Open-Label Pilot Study to Evaluate the Safety/Tolerability, Efficacy, Pharmacokinetics, and Pharmacodynamics of VTX2735 in Participants with Recurrent Pericarditis",
-      "titulo_completo": "A Phase 2a, Open-Label Pilot Study to Evaluate the Safety/Tolerability, Efficacy, Pharmacokinetics, and Pharmacodynamics of VTX2735 in Participants with Recurrent Pericarditis",
-      "resumen": "Phase 2a Open-Label Pilot Study of VTX2735 in Recurrent Pericarditis",
-      "enfermedad": "Recurrent Pericarditis",
+      "id": "60aa6dc34fedf9c229a0d31cda8923128782d5909d31b3eb7519c56b30c6bc65",
+      "titulo": "JNJ¿98768111 para el cáncer de próstata avanzado",
+      "titulo_completo": "JNJ¿98768111 para el cáncer de próstata avanzado",
+      "resumen": "Cáncer de próstata avanzado",
+      "enfermedad": "",
       "estado": "No iniciado",
       "fecha": "09/10/2026",
       "fecha_iso": "2026-10-09T09:00:00+00:00",
-      "identificador": "2025-524784-20-00 [ VTX2735-202 ]",
+      "identificador": "2026-525894-37-00 [ 98768111PCR1001 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34538",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524784-20-00 [ VTX2735-202 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Phase 2a Open-Label Pilot Study of VTX2735 in Recurrent Pericarditis</p><p><strong>Enfermedad investigada:</strong> Recurrent Pericarditis</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34538\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34539",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525894-37-00 [ 98768111PCR1001 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Cáncer de próstata avanzado</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34539\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "e6c16491849d63f1ea1548d5a52327e531b462aa5058780a51dfcfe6ae1578a8",
@@ -169,6 +155,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34537",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525265-48-00 [ INS1009-301 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la eficacia y seguridad de la administración una vez al día de treprostinil palmitil en polvo para inhalación (TPIP) en participantes con hipertensión arterial pulmonar (HAP) (PAL[...]</p><p><strong>Enfermedad investigada:</strong> Hipertensión Arterial Pulmonar</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34537\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "3c7c5c5e58b8ecd917be4c2f6c57b77755b305f0c2d4b1f4a34509ac418039ad",
+      "titulo": "A Phase 2a, Open-Label Pilot Study to Evaluate the Safety/Tolerability, Efficacy, Pharmacokinetics, and Pharmacodynamics of VTX2735 in Participants with Recurrent Pericarditis",
+      "titulo_completo": "A Phase 2a, Open-Label Pilot Study to Evaluate the Safety/Tolerability, Efficacy, Pharmacokinetics, and Pharmacodynamics of VTX2735 in Participants with Recurrent Pericarditis",
+      "resumen": "Phase 2a Open-Label Pilot Study of VTX2735 in Recurrent Pericarditis",
+      "enfermedad": "Recurrent Pericarditis",
+      "estado": "No iniciado",
+      "fecha": "09/10/2026",
+      "fecha_iso": "2026-10-09T09:00:00+00:00",
+      "identificador": "2025-524784-20-00 [ VTX2735-202 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34538",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524784-20-00 [ VTX2735-202 ]</p><p><strong>Fecha de autorización:</strong> 09/10/2026</p><p><strong>Resumen:</strong> Phase 2a Open-Label Pilot Study of VTX2735 in Recurrent Pericarditis</p><p><strong>Enfermedad investigada:</strong> Recurrent Pericarditis</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34538\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "321402df6ee497b63356fef02c95731df00db91fd0c8e24bf81fdfba9ae55b30",
@@ -325,6 +325,20 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526261-14-00 [ TKS2001 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> PHOENIX-ECP: Fotoaféresis extracorpórea para la colitis o la hepatitis inmunorrelacionadas en el melanoma avanzado con respuesta inadecuada a los corticoides</p><p><strong>Enfermedad investigada:</strong> Colitis y/o hepatitis relacionadas con el sistema inmunitario con respuesta inadecuada a los corticosteroides en participantes con melanoma irresecable o metastásico tratados con inhibidores de puntos[...]</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34507\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "f08ac705d885f65125393f75ec5c80f427e37487d2b0296e0eabc0ab1f5da047",
+      "titulo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
+      "titulo_completo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
+      "resumen": "cáncer gástrico o en la unión gastroesofágica (UGE)",
+      "enfermedad": "",
+      "estado": "No iniciado",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "identificador": "2024-518348-19-00 [ CFML539A12101 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34509",
+      "descripcion": "<p><strong>Identificador:</strong> 2024-518348-19-00 [ CFML539A12101 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> cáncer gástrico o en la unión gastroesofágica (UGE)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34509\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "0b942d3388bd061ee2c678b919fbf5444c9eed1c4708d58d5a5e52e96b055b4f",
       "titulo": "Estudio aleatorizado, doble ciego, controlado con placebo, de grupos paralelos y 52 semanas de duración para evaluar la eficacia, seguridad, tolerabilidad y farmacocinética de dos dosis de EXPD 101 en[...]",
       "titulo_completo": "Estudio aleatorizado, doble ciego, controlado con placebo, de grupos paralelos y 52 semanas de duración para evaluar la eficacia, seguridad, tolerabilidad y farmacocinética de dos dosis de EXPD 101 en[...]",
@@ -351,20 +365,6 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34505",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525886-38-00 [ ATSN-201-1 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio de fase I/II/II de la terapia génica ATSN-201 en sujetos con retinosquisis ligada al cromosoma X asociada a RS1</p><p><strong>Enfermedad investigada:</strong> Distrofia retiniana hereditaria debida a una disfunción en el gen humano de la retinosquisina (RS1).</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34505\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "f08ac705d885f65125393f75ec5c80f427e37487d2b0296e0eabc0ab1f5da047",
-      "titulo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
-      "titulo_completo": "Estudio de fase I de [177Lu]Lu-DWJ155 y [68Ga]Ga-DWJ155 en pacientes con tumores sólidos.",
-      "resumen": "cáncer gástrico o en la unión gastroesofágica (UGE)",
-      "enfermedad": "",
-      "estado": "No iniciado",
-      "fecha": "30/09/2026",
-      "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2024-518348-19-00 [ CFML539A12101 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34509",
-      "descripcion": "<p><strong>Identificador:</strong> 2024-518348-19-00 [ CFML539A12101 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> cáncer gástrico o en la unión gastroesofágica (UGE)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34509\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "5602ff7d76be99c92224ce2461207f4420a8d07c9e4d69f2027bdeeea987cfe2",
@@ -479,20 +479,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2024-520409-38-00 [ ANB033-101 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Celiac diseaseEosinophilic esophagitis (EoE)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34520\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "b88ff46803d30ed24d081e6cdd2799ed122052628b1ff07059faf5b061a47e16",
-      "titulo": "Estudio de fase III, multicéntrico, aleatorizado, doble ciego, controlado con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de trontinemab en participantes sin deterioro cognit[...]",
-      "titulo_completo": "Estudio de fase III, multicéntrico, aleatorizado, doble ciego, controlado con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de trontinemab en participantes sin deterioro cognit[...]",
-      "resumen": "Estudio para conocer los efectos de trontinemab en participantes con riesgo de padecer la enfermedad de Alzheimer",
-      "enfermedad": "Personas sin deterioro cognitivo con riesgo de progresión a enfermedad de Alzheimer (EA) sintomática",
-      "estado": "No iniciado",
-      "fecha": "30/09/2026",
-      "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2025-524314-29-00 [ WN46072 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34518",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524314-29-00 [ WN46072 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio para conocer los efectos de trontinemab en participantes con riesgo de padecer la enfermedad de Alzheimer</p><p><strong>Enfermedad investigada:</strong> Personas sin deterioro cognitivo con riesgo de progresión a enfermedad de Alzheimer (EA) sintomática</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34518\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "48f32e18e1d54f71083557a24f2d93c38d03e13df77cb4e85486395432dacfef",
       "titulo": "Estudio multicéntrico de búsqueda de dosis en fase II/III para evaluar la eficacia y la seguridad de atumelnant en adultos con síndrome de Cushing dependiente de ACTH (SCDA), incluida una extensión ab[...]",
       "titulo_completo": "Estudio multicéntrico de búsqueda de dosis en fase II/III para evaluar la eficacia y la seguridad de atumelnant en adultos con síndrome de Cushing dependiente de ACTH (SCDA), incluida una extensión ab[...]",
@@ -505,6 +491,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34517",
       "descripcion": "<p><strong>Identificador:</strong> 2025-522648-42-01 [ CRN04894-331 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Enfermedad investigada:</strong> ¿ Síndrome de Cushing dependiente de ACTH. ¿ Síndrome de Cushing dependiente de la hipófisis.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34517\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "8b7b3c08ae61e44ce74c02a82a181dd0a80a259233e1823b5f83a0b70e434403",
+      "titulo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
+      "titulo_completo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
+      "resumen": "Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.",
+      "enfermedad": "Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada",
+      "estado": "No iniciado",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "identificador": "2026-526100-73-00 [ MG01-SIT-093 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34516",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526100-73-00 [ MG01-SIT-093 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.</p><p><strong>Enfermedad investigada:</strong> Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34516\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "e7a9ab4579a2a545cf687440e5f89057fff530feaf11b9f1bbe0d4332b3965ae",
@@ -521,18 +521,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-527210-22-00 [ MEROBONE ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> OPTIMIZANDO EL TRATAMIENTO CON MEROPENEM PARA INFECCIONES ÓSEAS Y ARTICULARES CON CUERPO EXTRAÑO</p><p><strong>Enfermedad investigada:</strong> INFECCIONES DE HUESO Y ARTICULACIÓN</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34523\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "8b7b3c08ae61e44ce74c02a82a181dd0a80a259233e1823b5f83a0b70e434403",
-      "titulo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
-      "titulo_completo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
-      "resumen": "Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.",
-      "enfermedad": "Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada",
+      "id": "b88ff46803d30ed24d081e6cdd2799ed122052628b1ff07059faf5b061a47e16",
+      "titulo": "Estudio de fase III, multicéntrico, aleatorizado, doble ciego, controlado con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de trontinemab en participantes sin deterioro cognit[...]",
+      "titulo_completo": "Estudio de fase III, multicéntrico, aleatorizado, doble ciego, controlado con placebo y de grupos paralelos para evaluar la eficacia y la seguridad de trontinemab en participantes sin deterioro cognit[...]",
+      "resumen": "Estudio para conocer los efectos de trontinemab en participantes con riesgo de padecer la enfermedad de Alzheimer",
+      "enfermedad": "Personas sin deterioro cognitivo con riesgo de progresión a enfermedad de Alzheimer (EA) sintomática",
       "estado": "No iniciado",
       "fecha": "30/09/2026",
       "fecha_iso": "2026-09-30T09:00:00+00:00",
-      "identificador": "2026-526100-73-00 [ MG01-SIT-093 ]",
+      "identificador": "2025-524314-29-00 [ WN46072 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34516",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-526100-73-00 [ MG01-SIT-093 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de gramíneas.</p><p><strong>Enfermedad investigada:</strong> Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de gramíneas, con o sin asma de leve a moderada</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34516\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34518",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524314-29-00 [ WN46072 ]</p><p><strong>Fecha de autorización:</strong> 30/09/2026</p><p><strong>Resumen:</strong> Estudio para conocer los efectos de trontinemab en participantes con riesgo de padecer la enfermedad de Alzheimer</p><p><strong>Enfermedad investigada:</strong> Personas sin deterioro cognitivo con riesgo de progresión a enfermedad de Alzheimer (EA) sintomática</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34518\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "374b1cea46e5d39f887fbe706e2d8777408254e3174cf80905b2afa9a284b82e",
@@ -661,20 +661,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526682-14-00 [ 218130 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Estudio sobre la eficacia de una vacuna contra la gripe en adultos ¿65 años de edad.</p><p><strong>Enfermedad investigada:</strong> Gripe, Humana</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34497\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "7798e6f2c7fa905866f05f6555e1c2fa0f14968aede7e8f8efa59150669418e5",
-      "titulo": "Efectos de un antagonista/agonista inverso del receptor CB1 (Rimonabant) en la mejoría del déficit cognitivo en pacientes con síndrome post-COVID-19 (RIMOCOVID-1).",
-      "titulo_completo": "Efectos de un antagonista/agonista inverso del receptor CB1 (Rimonabant) en la mejoría del déficit cognitivo en pacientes con síndrome post-COVID-19 (RIMOCOVID-1).",
-      "resumen": "Evaluación de la seguridad y la eficacia de Rimonabant en el déficit cognitivo en pacientes con síndrome post-COVID-19 (COVID persistente).",
-      "enfermedad": "Síndrome post-COVID-19",
-      "estado": "No iniciado",
-      "fecha": "28/09/2026",
-      "fecha_iso": "2026-09-28T09:00:00+00:00",
-      "identificador": "2023-507870-42-00 [ RIMOCOVID-1 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34501",
-      "descripcion": "<p><strong>Identificador:</strong> 2023-507870-42-00 [ RIMOCOVID-1 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Evaluación de la seguridad y la eficacia de Rimonabant en el déficit cognitivo en pacientes con síndrome post-COVID-19 (COVID persistente).</p><p><strong>Enfermedad investigada:</strong> Síndrome post-COVID-19</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34501\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "4981589e9f3f229b16a6dc0446840ab4c024063054c85f3bd9f91bb2ae244dc1",
       "titulo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
       "titulo_completo": "Ensayo clínico multicéntrico, prospectivo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y seguridad de la inmunoterapia subcutánea con extractos polimerizados de polen d[...]",
@@ -687,6 +673,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34498",
       "descripcion": "<p><strong>Identificador:</strong> 2026-526390-41-00 [ T517-SIT-092 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Ensayo clínico para evaluar la eficacia y la seguridad de una vacuna para la alergia al polen de olivo</p><p><strong>Enfermedad investigada:</strong> Rinitis alérgica o rinoconjuntivitis de moderada a grave inducida por polen de olivo (Olea europaea), con o sin asma leve a moderada</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34498\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "7798e6f2c7fa905866f05f6555e1c2fa0f14968aede7e8f8efa59150669418e5",
+      "titulo": "Efectos de un antagonista/agonista inverso del receptor CB1 (Rimonabant) en la mejoría del déficit cognitivo en pacientes con síndrome post-COVID-19 (RIMOCOVID-1).",
+      "titulo_completo": "Efectos de un antagonista/agonista inverso del receptor CB1 (Rimonabant) en la mejoría del déficit cognitivo en pacientes con síndrome post-COVID-19 (RIMOCOVID-1).",
+      "resumen": "Evaluación de la seguridad y la eficacia de Rimonabant en el déficit cognitivo en pacientes con síndrome post-COVID-19 (COVID persistente).",
+      "enfermedad": "Síndrome post-COVID-19",
+      "estado": "No iniciado",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "identificador": "2023-507870-42-00 [ RIMOCOVID-1 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34501",
+      "descripcion": "<p><strong>Identificador:</strong> 2023-507870-42-00 [ RIMOCOVID-1 ]</p><p><strong>Fecha de autorización:</strong> 28/09/2026</p><p><strong>Resumen:</strong> Evaluación de la seguridad y la eficacia de Rimonabant en el déficit cognitivo en pacientes con síndrome post-COVID-19 (COVID persistente).</p><p><strong>Enfermedad investigada:</strong> Síndrome post-COVID-19</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34501\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "73381ca948e22a40398dd81c856fd06cc65c9cb85b4ddcb367fb5d7a12bab51c",
