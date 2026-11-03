@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-11-03T06:56:35.903387+00:00",
-  "cantidad": 176,
+  "actualizado": "2026-11-03T21:07:28.324801+00:00",
+  "cantidad": 178,
   "estudios": [
+    {
+      "id": "dbb423015e3f9debbb3e62d0718012c5cc1ff7b51b9b9a049b5e8ecc28db4373",
+      "titulo": "Estudio en fase¿2b, aleatorizado, doble ciego y controlado con placebo de ALN-CIDEB en adultos con esteatohepatitis asociada a disfunción metabólica (MASH) fibrótica",
+      "titulo_completo": "Estudio en fase¿2b, aleatorizado, doble ciego y controlado con placebo de ALN-CIDEB en adultos con esteatohepatitis asociada a disfunción metabólica (MASH) fibrótica",
+      "resumen": "Estudio para evaluar ALN-CIDEB en adultos con esteatohepatitis asociada a disfunción metabólica (MASH) con fibrosis",
+      "enfermedad": "Esteatohepatitis asociada a disfunción metabólica (MASH)",
+      "estado": "No iniciado",
+      "fecha": "29/10/2026",
+      "fecha_iso": "2026-10-29T09:00:00+00:00",
+      "identificador": "2026-525916-33-00 [ ALN-CIDEB-MASH-2603 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34629",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525916-33-00 [ ALN-CIDEB-MASH-2603 ]</p><p><strong>Fecha de autorización:</strong> 29/10/2026</p><p><strong>Resumen:</strong> Estudio para evaluar ALN-CIDEB en adultos con esteatohepatitis asociada a disfunción metabólica (MASH) con fibrosis</p><p><strong>Enfermedad investigada:</strong> Esteatohepatitis asociada a disfunción metabólica (MASH)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34629\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
     {
       "id": "2a14f7e2863243a486b7016de690fdc21b3d1e4153b3723b4a515b333d500dfe",
       "titulo": "Estudio abierto, aleatorizado, multicéntrico, de fase 3 para evaluar Mocertatug Rezetecan en combinación con Bevacizumab comparado con doblete de platino más Bevacizumab en pacientes con cáncer de ova[...]",
@@ -29,20 +43,6 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34624",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525948-15-00 [ AVZO-023-1001 ]</p><p><strong>Fecha de autorización:</strong> 29/10/2026</p><p><strong>Resumen:</strong> Estudio en fase I/II de AVZO-023 en monoterapia y en combinación con AVZO-021 y/u hormonoterapia en tumores sólidos avanzados</p><p><strong>Enfermedad investigada:</strong> Cáncer avanzado</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34624\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "9a9ec8ffd74f1fa3c868e86f2ec430766a361e09c0d5f458f510f91c978f58c2",
-      "titulo": "Ensayo de extensión a largo plazo para evaluar la seguridad y la tolerabilidad de TAK-360 en participantes con determinados trastornos de hipersomnia central",
-      "titulo_completo": "Ensayo de extensión a largo plazo para evaluar la seguridad y la tolerabilidad de TAK-360 en participantes con determinados trastornos de hipersomnia central",
-      "resumen": "Estudio de TAK-360 en personas con narcolepsia o hipersomnia idiopática",
-      "enfermedad": "Trastornos de hipersomnia central",
-      "estado": "No iniciado",
-      "fecha": "28/10/2026",
-      "fecha_iso": "2026-10-28T09:00:00+00:00",
-      "identificador": "2025-522833-68-01 [ TAK-360-2003 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34616",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-522833-68-01 [ TAK-360-2003 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Estudio de TAK-360 en personas con narcolepsia o hipersomnia idiopática</p><p><strong>Enfermedad investigada:</strong> Trastornos de hipersomnia central</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34616\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "cdc33725ed48c1dd959fa939990d608a36c90c0cc77b6839f7f610993b627950",
@@ -73,6 +73,34 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526150-14-00 [ BP46447 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Tumores sólidos avanzados y/o metastásicos</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34625\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "9a9ec8ffd74f1fa3c868e86f2ec430766a361e09c0d5f458f510f91c978f58c2",
+      "titulo": "Ensayo de extensión a largo plazo para evaluar la seguridad y la tolerabilidad de TAK-360 en participantes con determinados trastornos de hipersomnia central",
+      "titulo_completo": "Ensayo de extensión a largo plazo para evaluar la seguridad y la tolerabilidad de TAK-360 en participantes con determinados trastornos de hipersomnia central",
+      "resumen": "Estudio de TAK-360 en personas con narcolepsia o hipersomnia idiopática",
+      "enfermedad": "Trastornos de hipersomnia central",
+      "estado": "No iniciado",
+      "fecha": "28/10/2026",
+      "fecha_iso": "2026-10-28T09:00:00+00:00",
+      "identificador": "2025-522833-68-01 [ TAK-360-2003 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34616",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-522833-68-01 [ TAK-360-2003 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Estudio de TAK-360 en personas con narcolepsia o hipersomnia idiopática</p><p><strong>Enfermedad investigada:</strong> Trastornos de hipersomnia central</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34616\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "8caac0f1f24afc41a53bc0dd5a4fac9a6a16010528e31d506b99537200e262ff",
+      "titulo": "ESTUDIO DE FASE II, ALEATORIZADO, DOBLE CIEGO, CONTROLADO CON PLACEBO Y MULTICÉNTRICO PARA EVALUAR LA EFICACIA, SEGURIDAD Y FARMACOCINÉTICA DE RO7568282 EN PARTICIPANTES CON ENFERMEDAD DE ALZHEIMER SI[...]",
+      "titulo_completo": "ESTUDIO DE FASE II, ALEATORIZADO, DOBLE CIEGO, CONTROLADO CON PLACEBO Y MULTICÉNTRICO PARA EVALUAR LA EFICACIA, SEGURIDAD Y FARMACOCINÉTICA DE RO7568282 EN PARTICIPANTES CON ENFERMEDAD DE ALZHEIMER SI[...]",
+      "resumen": "ESTUDIO PARA EVALUAR LOS EFECTOS Y LA SEGURIDAD DE RO7568282 EN PARTICIPANTES CON ENFERMEDAD DE ALZHEIMER SINTOMÁTICA TEMPRANA",
+      "enfermedad": "Enfermedad de Alzheimer (EA) sintomática temprana",
+      "estado": "No iniciado",
+      "fecha": "28/10/2026",
+      "fecha_iso": "2026-10-28T09:00:00+00:00",
+      "identificador": "2026-526158-14-00 [ BP46554 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34628",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526158-14-00 [ BP46554 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> ESTUDIO PARA EVALUAR LOS EFECTOS Y LA SEGURIDAD DE RO7568282 EN PARTICIPANTES CON ENFERMEDAD DE ALZHEIMER SINTOMÁTICA TEMPRANA</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Alzheimer (EA) sintomática temprana</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34628\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "36f3b0a4e393628ace5202a6d547ee1d4c0b619420dc91357fab7ee30478095e",
       "titulo": "Estudio para evaluar el efecto del empasiprubart en la morfología nerviosa mediante ecografía en adultos con neuropatía motora multifocal [EmpaSound]",
       "titulo_completo": "Estudio para evaluar el efecto del empasiprubart en la morfología nerviosa mediante ecografía en adultos con neuropatía motora multifocal [EmpaSound]",
@@ -85,20 +113,6 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34618",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525171-20-00 [ ARGX-117-8-MMN-1001 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Neuropatía motora multifocal</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34618\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "8caac0f1f24afc41a53bc0dd5a4fac9a6a16010528e31d506b99537200e262ff",
-      "titulo": "A PHASE II, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE EFFICACY, SAFETY, AND PHARMACOKINETICS OF RO7568282 IN PARTICIPANTS WITH EARLY SYMPTOMATIC ALZHEIMERS DIS[...]",
-      "titulo_completo": "A PHASE II, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY TO EVALUATE THE EFFICACY, SAFETY, AND PHARMACOKINETICS OF RO7568282 IN PARTICIPANTS WITH EARLY SYMPTOMATIC ALZHEIMERS DIS[...]",
-      "resumen": "Study to Test Effects and Safety of RO7568282 in Participants With Early Symptomatic Alzheimers Disease",
-      "enfermedad": "Early Symptomatic Alzheimers Disease (AD)",
-      "estado": "No iniciado",
-      "fecha": "28/10/2026",
-      "fecha_iso": "2026-10-28T09:00:00+00:00",
-      "identificador": "2026-526158-14-00 [ BP46554 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34628",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-526158-14-00 [ BP46554 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Study to Test Effects and Safety of RO7568282 in Participants With Early Symptomatic Alzheimers Disease</p><p><strong>Enfermedad investigada:</strong> Early Symptomatic Alzheimers Disease (AD)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34628\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "8d88ec23ab66dbdbf499f88f0fe9db46bd8e606ca7bf08633d4c83c4e8af161c",
@@ -143,32 +157,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2024-518933-28-01 [ CELC-G-302 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Un estudio para evaluar el gedatolisib como un posible nuevo tratamiento para pacientes con cáncer de mama avanzado</p><p><strong>Enfermedad investigada:</strong> Estudio 1: cáncer de mama avanzado (CMA), RH positivo HER2 negativo hormonorresistente, sin ningún tratamiento antineoplásico sistémico previo para el CMA Estudio 2: cáncer de mama avanzado (CMA), RH [...]</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34623\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "b6998918047f37865fbd7a2dfcb5f33c3df809784bd2b400b0c95b65d24cbf49",
-      "titulo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
-      "titulo_completo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
-      "resumen": "Leucemia mieloide aguda (LMA) de nuevo diagnóstico",
-      "enfermedad": "",
+      "id": "8e3859af6e0edc6c1d40616f00849b2d4b516c85987c513740446a62606c50e2",
+      "titulo": "Ensayo de fase Ib/II abierto para estudiar la seguridad y la tolerabilidad del obrixtamig intravenoso en combinación con pumitamig y el tratamiento convencional (carboplatino, etopósido) en pacientes [...]",
+      "titulo_completo": "Ensayo de fase Ib/II abierto para estudiar la seguridad y la tolerabilidad del obrixtamig intravenoso en combinación con pumitamig y el tratamiento convencional (carboplatino, etopósido) en pacientes [...]",
+      "resumen": "Estudio para investigar el obrixtamig en combinación con pumitamig en personas con carcinoma microcítico pulmonar avanzado",
+      "enfermedad": "Carcinoma microcítico pulmonar",
       "estado": "No iniciado",
-      "fecha": "27/10/2026",
-      "fecha_iso": "2026-10-27T09:00:00+00:00",
-      "identificador": "2026-527464-32-00 [ CETLAM-VI-2026-01 ]",
+      "fecha": "28/10/2026",
+      "fecha_iso": "2026-10-28T09:00:00+00:00",
+      "identificador": "2026-525459-99-00 [ 1438-0035 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34614",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-527464-32-00 [ CETLAM-VI-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Resumen:</strong> Leucemia mieloide aguda (LMA) de nuevo diagnóstico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34614\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "15aa5c9112914e42a721c90845fd07d0d6cfc909e1a4667dcc187760f66b8617",
-      "titulo": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
-      "titulo_completo": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
-      "resumen": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
-      "enfermedad": "Alergia",
-      "estado": "No iniciado",
-      "fecha": "27/10/2026",
-      "fecha_iso": "2026-10-27T09:00:00+00:00",
-      "identificador": "2025-522597-37-00 [ API-EAC-2026-01 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34612",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-522597-37-00 [ API-EAC-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Enfermedad investigada:</strong> Alergia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34612\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34630",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525459-99-00 [ 1438-0035 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Estudio para investigar el obrixtamig en combinación con pumitamig en personas con carcinoma microcítico pulmonar avanzado</p><p><strong>Enfermedad investigada:</strong> Carcinoma microcítico pulmonar</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34630\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "cc4efcf2e6e958b3b7a2cef9a647fded76b0ebfd587e38139a06016b47465ed2",
@@ -197,6 +197,34 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34613",
       "descripcion": "<p><strong>Identificador:</strong> 2026-526404-71-00 [ AGMB447-01-CL-201 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Resumen:</strong> Ensayo de fase II de AGMB-447 en participantes con fibrosis pulmonar idiopática</p><p><strong>Enfermedad investigada:</strong> Fibrosis Pulmonar Idiopática</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34613\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "15aa5c9112914e42a721c90845fd07d0d6cfc909e1a4667dcc187760f66b8617",
+      "titulo": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
+      "titulo_completo": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
+      "resumen": "Estandarización Biológica ¿in vivo¿ del Extracto Alergénico Cynodon Dactylon (ESTUDIO EBEA-C)",
+      "enfermedad": "Alergia",
+      "estado": "No iniciado",
+      "fecha": "27/10/2026",
+      "fecha_iso": "2026-10-27T09:00:00+00:00",
+      "identificador": "2025-522597-37-00 [ API-EAC-2026-01 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34612",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-522597-37-00 [ API-EAC-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Enfermedad investigada:</strong> Alergia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34612\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "b6998918047f37865fbd7a2dfcb5f33c3df809784bd2b400b0c95b65d24cbf49",
+      "titulo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
+      "titulo_completo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
+      "resumen": "Leucemia mieloide aguda (LMA) de nuevo diagnóstico",
+      "enfermedad": "",
+      "estado": "No iniciado",
+      "fecha": "27/10/2026",
+      "fecha_iso": "2026-10-27T09:00:00+00:00",
+      "identificador": "2026-527464-32-00 [ CETLAM-VI-2026-01 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34614",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-527464-32-00 [ CETLAM-VI-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Resumen:</strong> Leucemia mieloide aguda (LMA) de nuevo diagnóstico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34614\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "0a8e73600364014dad419ff936a3d3aa100aed63f4184f07577f228085fffa13",
@@ -311,20 +339,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526703-30-00 [ FP-045C-23-001 ]</p><p><strong>Fecha de autorización:</strong> 22/10/2026</p><p><strong>Resumen:</strong> Estudio de un medicamento en investigación llamado mirivadelgat para evaluar su seguridad y eficacia en personas con enfermedad pulmonar intersticial, una afección en la que se forma tejido cicatric[...]</p><p><strong>Enfermedad investigada:</strong> Hipertensión pulmonar asociada con enfermedad pulmonar intersticial</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34598\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "12cb706686e8dbb1107842d2ac5c601ff0727d46c8049b73ad5ae8c51c2b70c0",
-      "titulo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "titulo_completo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "resumen": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "enfermedad": "cáncer de pulmón no microcítico",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2025-522985-60-00 [ EORTC-2456-LCG-BTG ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34589",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-522985-60-00 [ EORTC-2456-LCG-BTG ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Enfermedad investigada:</strong> cáncer de pulmón no microcítico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34589\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "39f603ebc6631f8756224900b7c1affd9a29e085fdafb0a4c1699b9a8047c577",
       "titulo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
       "titulo_completo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
@@ -367,6 +381,20 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525529-19-00 [ NN7769-7602 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar denecimig (Mim8) en adultos con hemofilia A adquirida</p><p><strong>Enfermedad investigada:</strong> hemofilia A adquirida</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34591\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "12cb706686e8dbb1107842d2ac5c601ff0727d46c8049b73ad5ae8c51c2b70c0",
+      "titulo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "titulo_completo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "resumen": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "enfermedad": "cáncer de pulmón no microcítico",
+      "estado": "No iniciado",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2025-522985-60-00 [ EORTC-2456-LCG-BTG ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34589",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-522985-60-00 [ EORTC-2456-LCG-BTG ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Enfermedad investigada:</strong> cáncer de pulmón no microcítico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34589\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "a2cb3bd707e84a3a0b9ecac2ab714c6c28697698a5e784bd58f5499fe69bc981",
       "titulo": "Estudio de fase II, aleatorizado, doble ciego, estudio multicéntrico controlado con placebo para evaluar la eficacia, la seguridad y la farmacocinética de RO7568282 en participantes con enfermedad de [...]",
       "titulo_completo": "Estudio de fase II, aleatorizado, doble ciego, estudio multicéntrico controlado con placebo para evaluar la eficacia, la seguridad y la farmacocinética de RO7568282 en participantes con enfermedad de [...]",
@@ -381,20 +409,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524064-37-00 [ BP46441 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio para evaluar los efectos y la seguridad de RO7568282 en enfermedad de Parkinson en fase inicial</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Parkinson (EP)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34588\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "fc673896b60cc224f91e700267b8318b791cf2519ba51538095dfbbfc180464e",
-      "titulo": "Ensayo doble ciego, aleatorizado y controlado con placebo para investigar la eficacia y la seguridad del nerandomilast durante al menos 52 semanas en pacientes con enfermedad pulmonar intersticial fib[...]",
-      "titulo_completo": "Ensayo doble ciego, aleatorizado y controlado con placebo para investigar la eficacia y la seguridad del nerandomilast durante al menos 52 semanas en pacientes con enfermedad pulmonar intersticial fib[...]",
-      "resumen": "FIBRONEER¿ACT: Estudio para averiguar si el nerandomilast ayuda a las personas con enfermedad pulmonar intersticial fibrosante que tienen riesgo de progresión de la enfermedad",
-      "enfermedad": "Enfermedades pulmonares intersticiales",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2026-526028-38-00 [ 1305-0152 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34581",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-526028-38-00 [ 1305-0152 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> FIBRONEER¿ACT: Estudio para averiguar si el nerandomilast ayuda a las personas con enfermedad pulmonar intersticial fibrosante que tienen riesgo de progresión de la enfermedad</p><p><strong>Enfermedad investigada:</strong> Enfermedades pulmonares intersticiales</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34581\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "6f9d3ded2d400f99a2216f98bbe5de0900e7a104e30dbbf384c36287638b1aca",
       "titulo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
       "titulo_completo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
@@ -407,6 +421,34 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34583",
       "descripcion": "<p><strong>Identificador:</strong> 2026-525626-38-00 [ IgPro20_3013 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio con un solo grupo para evaluar el IgPro20 en adultos con inmunodeficiencia secundaria debida a neoplasias hemolinfáticas, que reciben tratamientos de linfocitos T con receptor quimérico para e[...]</p><p><strong>Enfermedad investigada:</strong> Inmunodeficiencia secundaria</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34583\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "7eca85f47273bcf925ad2b33aad3a3bb6dbe932b6b0a68654eb636154bce5285",
+      "titulo": "Aspire-202: Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónic[...]",
+      "titulo_completo": "Aspire-202: Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónic[...]",
+      "resumen": "Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónica en las reg[...]",
+      "enfermedad": "Hepatitis B crónica",
+      "estado": "No iniciado",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2025-524159-30-00 [ AB-10-8012 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34596",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-524159-30-00 [ AB-10-8012 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónica en las reg[...]</p><p><strong>Enfermedad investigada:</strong> Hepatitis B crónica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34596\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "fc673896b60cc224f91e700267b8318b791cf2519ba51538095dfbbfc180464e",
+      "titulo": "Ensayo doble ciego, aleatorizado y controlado con placebo para investigar la eficacia y la seguridad del nerandomilast durante al menos 52 semanas en pacientes con enfermedad pulmonar intersticial fib[...]",
+      "titulo_completo": "Ensayo doble ciego, aleatorizado y controlado con placebo para investigar la eficacia y la seguridad del nerandomilast durante al menos 52 semanas en pacientes con enfermedad pulmonar intersticial fib[...]",
+      "resumen": "FIBRONEER¿ACT: Estudio para averiguar si el nerandomilast ayuda a las personas con enfermedad pulmonar intersticial fibrosante que tienen riesgo de progresión de la enfermedad",
+      "enfermedad": "Enfermedades pulmonares intersticiales",
+      "estado": "No iniciado",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2026-526028-38-00 [ 1305-0152 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34581",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526028-38-00 [ 1305-0152 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> FIBRONEER¿ACT: Estudio para averiguar si el nerandomilast ayuda a las personas con enfermedad pulmonar intersticial fibrosante que tienen riesgo de progresión de la enfermedad</p><p><strong>Enfermedad investigada:</strong> Enfermedades pulmonares intersticiales</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34581\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "1a9f8d471771d310f3e57a50decb6f2badf2c5bf50b4d0a6f5a853032e9e24bb",
@@ -435,20 +477,6 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34595",
       "descripcion": "<p><strong>Identificador:</strong> 2025-523664-20-00 [ CN0120006 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> ensayo de prevención de recaídas de fase 3 que evalúa el tratamiento KarXT en la esquizofrenia</p><p><strong>Enfermedad investigada:</strong> Esquizofrenia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34595\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "7eca85f47273bcf925ad2b33aad3a3bb6dbe932b6b0a68654eb636154bce5285",
-      "titulo": "Aspire-202: Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónic[...]",
-      "titulo_completo": "Aspire-202: Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónic[...]",
-      "resumen": "Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónica en las reg[...]",
-      "enfermedad": "Hepatitis B crónica",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2025-524159-30-00 [ AB-10-8012 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34596",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-524159-30-00 [ AB-10-8012 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónica en las reg[...]</p><p><strong>Enfermedad investigada:</strong> Hepatitis B crónica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34596\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "34f64dd049642a3756b3a1f607bff6fca923873164e157c3258c06ddf7e7e911",
