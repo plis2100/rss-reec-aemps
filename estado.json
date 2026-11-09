@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T11:04:04.340642+00:00",
-  "cantidad": 190,
+  "actualizado": "2026-11-09T06:47:52.862956+00:00",
+  "cantidad": 194,
   "estudios": [
     {
       "id": "5185e3ead43d5bd60c58787a60c83e8bf904eccc861cbeb97e29fb4103483ca0",
@@ -15,6 +15,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34643",
       "descripcion": "<p><strong>Identificador:</strong> 2025-524180-20-00 [ J6N-MC-JUCA ]</p><p><strong>Fecha de autorización:</strong> 05/11/2026</p><p><strong>Resumen:</strong> neoplasias malignas de los linfocitos B</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34643\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "0c423802c5d831b0005b440d7365b06b15aec684ffe1e2184644d282dca36cc4",
+      "titulo": "Ensayo clínico de fase III, doble ciego, controlado con placebo para evaluar la eficacia y la seguridad de Depigoid Olea europaea (1000 DPP/ml), un extracto de alérgeno polimerizado despigmentado de p[...]",
+      "titulo_completo": "Ensayo clínico de fase III, doble ciego, controlado con placebo para evaluar la eficacia y la seguridad de Depigoid Olea europaea (1000 DPP/ml), un extracto de alérgeno polimerizado despigmentado de p[...]",
+      "resumen": "Un estudio que compara Depigoid Olea (un medicamento para tratar las alergias al polen de olivo) con placebo en pacientes que presentan secreción nasal y ojos enrojecidos y con picazón debido a la ale[...]",
+      "enfermedad": "Rinoconjuntivitis alérgica de moderada a grave, con o sin asma estacional leve a moderada, controlada en el momento de la administración de la inmunoterapia, con sensibilización previa clínicamente re[...]",
+      "estado": "No iniciado",
+      "fecha": "05/11/2026",
+      "fecha_iso": "2026-11-05T09:00:00+00:00",
+      "identificador": "2026-525840-13-00 [ 0618-PG-PSC-219 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34644",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525840-13-00 [ 0618-PG-PSC-219 ]</p><p><strong>Fecha de autorización:</strong> 05/11/2026</p><p><strong>Resumen:</strong> Un estudio que compara Depigoid Olea (un medicamento para tratar las alergias al polen de olivo) con placebo en pacientes que presentan secreción nasal y ojos enrojecidos y con picazón debido a la ale[...]</p><p><strong>Enfermedad investigada:</strong> Rinoconjuntivitis alérgica de moderada a grave, con o sin asma estacional leve a moderada, controlada en el momento de la administración de la inmunoterapia, con sensibilización previa clínicamente re[...]</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34644\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "0ddfe69dc4091562d1334194f5d4ddf73f8ea44a54fa7171578bc976c80e4d48",
@@ -59,6 +73,20 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525688-41-00 [ LTS18002 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> Estudio para investigar la seguridad y la tolerabilidad a largo plazo de frexalimab en participantes con esclerosis múltiple</p><p><strong>Enfermedad investigada:</strong> esclerosis múltiple</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34633\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "90a41bfc21a74539bb46f8eea032a386706e50d816e1ba7f78f013df7ee23800",
+      "titulo": "Preparation with N-ACETYLCYSTEINE plus SIMETHICONE prior to a high-quality upper gastrointestinal endoscopy to improve gastric mucosal visibility and increase diagnostic accuracy. GASTROprep",
+      "titulo_completo": "Preparation with N-ACETYLCYSTEINE plus SIMETHICONE prior to a high-quality upper gastrointestinal endoscopy to improve gastric mucosal visibility and increase diagnostic accuracy. GASTROprep",
+      "resumen": "Preparación con N-acetilcisteína más simeticona previa a Endoscopia Digestiva Alta de Alta Calidad para mejorar la visibilidad de la mucosa gástrica y aumentar la precisión diagnóstica.",
+      "enfermedad": "Upper Endoscopy with Chromoendoscopy",
+      "estado": "No iniciado",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "identificador": "2026-526469-42-00 [ GASTROprep ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34646",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526469-42-00 [ GASTROprep ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> Preparación con N-acetilcisteína más simeticona previa a Endoscopia Digestiva Alta de Alta Calidad para mejorar la visibilidad de la mucosa gástrica y aumentar la precisión diagnóstica.</p><p><strong>Enfermedad investigada:</strong> Upper Endoscopy with Chromoendoscopy</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34646\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "f36402a8a0eb6437a17608ce7b6753d3d95b5180bbddef9d820f577c17ca3258",
       "titulo": "Estudio de fase¿3, aleatorizado, doble ciego, de grupos paralelos y controlado con¿placebo para evaluar la eficacia y la seguridad de Rezpegaldesleukin (NKTR-358) en¿monoterapia en el tratamiento de[...]",
       "titulo_completo": "Estudio de fase¿3, aleatorizado, doble ciego, de grupos paralelos y controlado con¿placebo para evaluar la eficacia y la seguridad de Rezpegaldesleukin (NKTR-358) en¿monoterapia en el tratamiento de[...]",
@@ -73,20 +101,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524925-42-00 [ 25-358-09 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> Estudio de Fase 3 de Rezpegaldesleukin (NKTR-358) en pacientes ¿ 12 años con dermatitis atópica de moderada a grave (ZENITH AD-1)</p><p><strong>Enfermedad investigada:</strong> Dermatitis atópica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34632\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "8b068d297dfc7bef8d7a88499ed6a3fae6da2756fd376206899dbdbfe57d5545",
-      "titulo": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
-      "titulo_completo": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
-      "resumen": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
-      "enfermedad": "Pacientes que han desarrollado EICH aguda refractaria a corticosteroides y ruxolitinib o que no son aptos para recibir ruxolitinib.",
-      "estado": "No iniciado",
-      "fecha": "04/11/2026",
-      "fecha_iso": "2026-11-04T09:00:00+00:00",
-      "identificador": "2025-523139-21-01 [ 2G-MSC-GVHD ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34634",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-523139-21-01 [ 2G-MSC-GVHD ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Enfermedad investigada:</strong> Pacientes que han desarrollado EICH aguda refractaria a corticosteroides y ruxolitinib o que no son aptos para recibir ruxolitinib.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34634\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "576763c44e4b7f91c7efcdb6d1430455ea456736553cabf3e31c9a36219a34d9",
       "titulo": "Estudio de fase IIb multicéntrico, aleatorizado, doble ciego, controlado con placebo y de búsqueda de dosis para evaluar la eficacia y la seguridad de GIA632 en participantes con liquen plano cutáneo [...]",
       "titulo_completo": "Estudio de fase IIb multicéntrico, aleatorizado, doble ciego, controlado con placebo y de búsqueda de dosis para evaluar la eficacia y la seguridad de GIA632 en participantes con liquen plano cutáneo [...]",
@@ -99,6 +113,34 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34641",
       "descripcion": "<p><strong>Identificador:</strong> 2025-522300-25-00 [ CGIA632C12201 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> . Un Ensayo clínico para conocer mejor los efectos de GIA632 en personas con liquen plano</p><p><strong>Enfermedad investigada:</strong> liquen plano cutáneo</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34641\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "46def878240f7e88fdd37d1485afda84b6623934eb3415c92fa0b47a56df4455",
+      "titulo": "Estudio clínico en fase III aleatorizado, doble ciego, comparativo con placebo, de la inyección de anticuerpos monoclonales humanizados MG K10 en pacientes adultos y adolescentes con dermatitis atópic[...]",
+      "titulo_completo": "Estudio clínico en fase III aleatorizado, doble ciego, comparativo con placebo, de la inyección de anticuerpos monoclonales humanizados MG K10 en pacientes adultos y adolescentes con dermatitis atópic[...]",
+      "resumen": "Estudio clínico en fase III aleatorizado, doble ciego, comparativo con placebo, de la inyección de anticuerpos monoclonales humanizados MG K10 en pacientes adultos y adolescentes con dermatitis atópic[...]",
+      "enfermedad": "Dermatitis atópica moderada o grave",
+      "estado": "No iniciado",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "identificador": "2025-525022-35-00 [ MG-K10-AD-202 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34645",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-525022-35-00 [ MG-K10-AD-202 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Enfermedad investigada:</strong> Dermatitis atópica moderada o grave</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34645\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "8b068d297dfc7bef8d7a88499ed6a3fae6da2756fd376206899dbdbfe57d5545",
+      "titulo": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
+      "titulo_completo": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
+      "resumen": "ENSAYO CLÍNICO DE FASE I/IIa PARA EL TRATAMIENTO DE LA ENFERMEDAD DE INJERTO CONTRA HOSPEDADOR CON UNA NUEVA GENERACIÓN DE CÉLULAS ESTROMALES MESENQUIMALES QUE EXPRESAN ECTÓPICAMENTE CXCR4 E IL-10 EN [...]",
+      "enfermedad": "Pacientes que han desarrollado EICH aguda refractaria a corticosteroides y ruxolitinib o que no son aptos para recibir ruxolitinib.",
+      "estado": "No iniciado",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "identificador": "2025-523139-21-01 [ 2G-MSC-GVHD ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34634",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-523139-21-01 [ 2G-MSC-GVHD ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Enfermedad investigada:</strong> Pacientes que han desarrollado EICH aguda refractaria a corticosteroides y ruxolitinib o que no son aptos para recibir ruxolitinib.</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34634\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "99f868a5e4382f0f0dea31151cd93e3c6a3b0d873dbc9d1767e4e32735460dce",
@@ -143,6 +185,20 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526437-25-00 [ PVT-2201-203 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> Estudio de fase II/III sobre la seguridad y la eficacia del brepocitinib en adultos con sarcoidosis cutánea (BEACON)</p><p><strong>Enfermedad investigada:</strong> sarcoidosis cutánea</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34635\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "ba3dbd99f194447fded7b0c1e8bf11fcc3f92af8a7d6d0a96e13a2748baba292",
+      "titulo": "Estudio de fase II, multicéntrico, aleatorizado, con grupos de tratamiento paralelos, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de CP-012B en participantes con enfer[...]",
+      "titulo_completo": "Estudio de fase II, multicéntrico, aleatorizado, con grupos de tratamiento paralelos, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad de CP-012B en participantes con enfer[...]",
+      "resumen": "Estudio para evaluar la eficacia y la seguridad de CP-012B en participantes con enfermedad de Parkinson que presentan períodos OFF a primera hora de la mañana",
+      "enfermedad": "Enfermedad de Parkinson con períodos OFF a primera hora de la mañana",
+      "estado": "No iniciado",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "identificador": "2026-526634-46-00 [ CP-012-26001 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34647",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526634-46-00 [ CP-012-26001 ]</p><p><strong>Fecha de autorización:</strong> 04/11/2026</p><p><strong>Resumen:</strong> Estudio para evaluar la eficacia y la seguridad de CP-012B en participantes con enfermedad de Parkinson que presentan períodos OFF a primera hora de la mañana</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Parkinson con períodos OFF a primera hora de la mañana</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34647\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "26de89f335fad7cd89fb2ff254a8f6a4740bf22c60e05b51ab53f5eafe66f51c",
       "titulo": "LYSARI LYmphocyte-Sparing And Radio-Immunotherapy in Head and neck carcinoma - A multicenter, randomised 2*2 factorial design comparing standard to reduced-target volume radiotherapy with or without [...]",
       "titulo_completo": "LYSARI LYmphocyte-Sparing And Radio-Immunotherapy in Head and neck carcinoma - A multicenter, randomised 2*2 factorial design comparing standard to reduced-target volume radiotherapy with or without [...]",
@@ -153,8 +209,8 @@
       "fecha_iso": "2026-11-03T09:00:00+00:00",
       "identificador": "2022-501315-13-00 [ LYSARI/ET22-156 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34636",
-      "descripcion": "<p><strong>Identificador:</strong> 2022-501315-13-00 [ LYSARI/ET22-156 ]</p><p><strong>Fecha de autorización:</strong> 03/11/2026</p><p><strong>Enfermedad investigada:</strong> Patients with lateralised oropharyngeal, laryngeal and hypopharyngeal squamous cell carcinoma</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34636\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34637",
+      "descripcion": "<p><strong>Identificador:</strong> 2022-501315-13-00 [ LYSARI/ET22-156 ]</p><p><strong>Fecha de autorización:</strong> 03/11/2026</p><p><strong>Enfermedad investigada:</strong> Patients with lateralised oropharyngeal, laryngeal and hypopharyngeal squamous cell carcinoma</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34637\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "20478940086ed193ddf34cba8597de5276e8b3ec18fc593476e036a4c72fea0a",
@@ -213,20 +269,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525948-15-00 [ AVZO-023-1001 ]</p><p><strong>Fecha de autorización:</strong> 29/10/2026</p><p><strong>Resumen:</strong> Estudio en fase I/II de AVZO-023 en monoterapia y en combinación con AVZO-021 y/u hormonoterapia en tumores sólidos avanzados</p><p><strong>Enfermedad investigada:</strong> Cáncer avanzado</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34624\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "cdc33725ed48c1dd959fa939990d608a36c90c0cc77b6839f7f610993b627950",
-      "titulo": "Estudio aleatorizado, con doble enmascaramiento y controlado con placebo para evaluar la eficacia y la seguridad de los comprimidos de nalbufina de liberación prolongada para el tratamiento de la tos [...]",
-      "titulo_completo": "Estudio aleatorizado, con doble enmascaramiento y controlado con placebo para evaluar la eficacia y la seguridad de los comprimidos de nalbufina de liberación prolongada para el tratamiento de la tos [...]",
-      "resumen": "Reducción de la tos crónica relacionada con la fibrosis pulmonar idiopática con comprimidos de liberación prolongada de nalbufina (NAL LP) (OCEAN-1)",
-      "enfermedad": "Tos crónica",
-      "estado": "No iniciado",
-      "fecha": "28/10/2026",
-      "fecha_iso": "2026-10-28T09:00:00+00:00",
-      "identificador": "2026-525877-38-00 [ NAL03-301 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34615",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525877-38-00 [ NAL03-301 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Reducción de la tos crónica relacionada con la fibrosis pulmonar idiopática con comprimidos de liberación prolongada de nalbufina (NAL LP) (OCEAN-1)</p><p><strong>Enfermedad investigada:</strong> Tos crónica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34615\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "5f40ecbdd27b196547cd889f401922e9b88e4d2866b356298faca376ef8d4374",
       "titulo": "Estudio de RO7821657 en participantes con tumores sólidos",
       "titulo_completo": "Estudio de RO7821657 en participantes con tumores sólidos",
@@ -283,18 +325,32 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-522833-68-01 [ TAK-360-2003 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Estudio de TAK-360 en personas con narcolepsia o hipersomnia idiopática</p><p><strong>Enfermedad investigada:</strong> Trastornos de hipersomnia central</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34616\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
+      "id": "cdc33725ed48c1dd959fa939990d608a36c90c0cc77b6839f7f610993b627950",
+      "titulo": "Estudio aleatorizado, con doble enmascaramiento y controlado con placebo para evaluar la eficacia y la seguridad de los comprimidos de nalbufina de liberación prolongada para el tratamiento de la tos [...]",
+      "titulo_completo": "Estudio aleatorizado, con doble enmascaramiento y controlado con placebo para evaluar la eficacia y la seguridad de los comprimidos de nalbufina de liberación prolongada para el tratamiento de la tos [...]",
+      "resumen": "Reducción de la tos crónica relacionada con la fibrosis pulmonar idiopática con comprimidos de liberación prolongada de nalbufina (NAL LP) (OCEAN-1)",
+      "enfermedad": "Tos crónica",
+      "estado": "No iniciado",
+      "fecha": "28/10/2026",
+      "fecha_iso": "2026-10-28T09:00:00+00:00",
+      "identificador": "2026-525877-38-00 [ NAL03-301 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34615",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525877-38-00 [ NAL03-301 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Reducción de la tos crónica relacionada con la fibrosis pulmonar idiopática con comprimidos de liberación prolongada de nalbufina (NAL LP) (OCEAN-1)</p><p><strong>Enfermedad investigada:</strong> Tos crónica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34615\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
       "id": "8d88ec23ab66dbdbf499f88f0fe9db46bd8e606ca7bf08633d4c83c4e8af161c",
       "titulo": "Eficacia y seguridad de niveles de dosis superiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana en participantes con diabetes de tipo 2 no controlada a[...]",
       "titulo_completo": "Eficacia y seguridad de niveles de dosis superiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana en participantes con diabetes de tipo 2 no controlada a[...]",
       "resumen": "\"AMBITION 3: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis superiores reduce la glucemia y el peso corporal en comparación con semaglutida en personas con diabetes de ti[...]",
       "enfermedad": "Participantes con diabetes de tipo 2",
-      "estado": "No iniciado",
+      "estado": "Reclutando",
       "fecha": "28/10/2026",
       "fecha_iso": "2026-10-28T09:00:00+00:00",
       "identificador": "2026-525472-26-00 [ NN9489-8035 ]",
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34622",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525472-26-00 [ NN9489-8035 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> &quot;AMBITION 3: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis superiores reduce la glucemia y el peso corporal en comparación con semaglutida en personas con diabetes de ti[...]</p><p><strong>Enfermedad investigada:</strong> Participantes con diabetes de tipo 2</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34622\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525472-26-00 [ NN9489-8035 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> &quot;AMBITION 3: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis superiores reduce la glucemia y el peso corporal en comparación con semaglutida en personas con diabetes de ti[...]</p><p><strong>Enfermedad investigada:</strong> Participantes con diabetes de tipo 2</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34622\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "27c3a3208f0fd9d76b20d091a1a502f45d43cfc7bc4301a44619505d95aea8f9",
@@ -339,20 +395,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-525459-99-00 [ 1438-0035 ]</p><p><strong>Fecha de autorización:</strong> 28/10/2026</p><p><strong>Resumen:</strong> Estudio para investigar el obrixtamig en combinación con pumitamig en personas con carcinoma microcítico pulmonar avanzado</p><p><strong>Enfermedad investigada:</strong> Carcinoma microcítico pulmonar</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34630\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "b6998918047f37865fbd7a2dfcb5f33c3df809784bd2b400b0c95b65d24cbf49",
-      "titulo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
-      "titulo_completo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
-      "resumen": "Leucemia mieloide aguda (LMA) de nuevo diagnóstico",
-      "enfermedad": "",
-      "estado": "No iniciado",
-      "fecha": "27/10/2026",
-      "fecha_iso": "2026-10-27T09:00:00+00:00",
-      "identificador": "2026-527464-32-00 [ CETLAM-VI-2026-01 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34614",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-527464-32-00 [ CETLAM-VI-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Resumen:</strong> Leucemia mieloide aguda (LMA) de nuevo diagnóstico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34614\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "cc4efcf2e6e958b3b7a2cef9a647fded76b0ebfd587e38139a06016b47465ed2",
       "titulo": "Estudio de fase III, aleatorizado, doble ciego, controlado con placebo, de 2 cohortes, de saruparib en combinación con un inhibidor de la vía del receptor androgénico a elección del investigador en pa[...]",
       "titulo_completo": "Estudio de fase III, aleatorizado, doble ciego, controlado con placebo, de 2 cohortes, de saruparib en combinación con un inhibidor de la vía del receptor androgénico a elección del investigador en pa[...]",
@@ -393,6 +435,20 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34612",
       "descripcion": "<p><strong>Identificador:</strong> 2025-522597-37-00 [ API-EAC-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Enfermedad investigada:</strong> Alergia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34612\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "b6998918047f37865fbd7a2dfcb5f33c3df809784bd2b400b0c95b65d24cbf49",
+      "titulo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
+      "titulo_completo": "VIVALDI: Estudio piloto con el inhibidor de LSD1 iadademstat en combinación con azacitidina y venetoclax en pacientes con leucemia mieloide aguda de nuevo diagnóstico y respuesta subóptima al tratamie[...]",
+      "resumen": "Leucemia mieloide aguda (LMA) de nuevo diagnóstico",
+      "enfermedad": "",
+      "estado": "No iniciado",
+      "fecha": "27/10/2026",
+      "fecha_iso": "2026-10-27T09:00:00+00:00",
+      "identificador": "2026-527464-32-00 [ CETLAM-VI-2026-01 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34614",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-527464-32-00 [ CETLAM-VI-2026-01 ]</p><p><strong>Fecha de autorización:</strong> 27/10/2026</p><p><strong>Resumen:</strong> Leucemia mieloide aguda (LMA) de nuevo diagnóstico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34614\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "0a8e73600364014dad419ff936a3d3aa100aed63f4184f07577f228085fffa13",
@@ -507,48 +563,6 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526703-30-00 [ FP-045C-23-001 ]</p><p><strong>Fecha de autorización:</strong> 22/10/2026</p><p><strong>Resumen:</strong> Estudio de un medicamento en investigación llamado mirivadelgat para evaluar su seguridad y eficacia en personas con enfermedad pulmonar intersticial, una afección en la que se forma tejido cicatric[...]</p><p><strong>Enfermedad investigada:</strong> Hipertensión pulmonar asociada con enfermedad pulmonar intersticial</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34598\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "39f603ebc6631f8756224900b7c1affd9a29e085fdafb0a4c1699b9a8047c577",
-      "titulo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
-      "titulo_completo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
-      "resumen": "\"AMBITION 4: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis inferiores reduce la glucemia y el peso corporal en comparación con semaglutida, en personas con diabetes de t[...]",
-      "enfermedad": "Participantes con diabetes de tipo 2",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2026-525474-20-00 [ NN9489-8449 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34587",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525474-20-00 [ NN9489-8449 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> &quot;AMBITION 4: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis inferiores reduce la glucemia y el peso corporal en comparación con semaglutida, en personas con diabetes de t[...]</p><p><strong>Enfermedad investigada:</strong> Participantes con diabetes de tipo 2</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34587\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "12cb706686e8dbb1107842d2ac5c601ff0727d46c8049b73ad5ae8c51c2b70c0",
-      "titulo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "titulo_completo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "resumen": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
-      "enfermedad": "cáncer de pulmón no microcítico",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2025-522985-60-00 [ EORTC-2456-LCG-BTG ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34589",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-522985-60-00 [ EORTC-2456-LCG-BTG ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Enfermedad investigada:</strong> cáncer de pulmón no microcítico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34589\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
-      "id": "cf615433b2b3207e1e2ca0d38d3ea4e8bbe864d6ed3e3a329479ef3d9b06321c",
-      "titulo": "Estudio abierto y multinacional para investigar la eficacia y la seguridad de denecimig (Mim8) en adultos con hemofilia A adquirida",
-      "titulo_completo": "Estudio abierto y multinacional para investigar la eficacia y la seguridad de denecimig (Mim8) en adultos con hemofilia A adquirida",
-      "resumen": "Estudio de investigación para evaluar denecimig (Mim8) en adultos con hemofilia A adquirida",
-      "enfermedad": "hemofilia A adquirida",
-      "estado": "No iniciado",
-      "fecha": "21/10/2026",
-      "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2026-525529-19-00 [ NN7769-7602 ]",
-      "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34591",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525529-19-00 [ NN7769-7602 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar denecimig (Mim8) en adultos con hemofilia A adquirida</p><p><strong>Enfermedad investigada:</strong> hemofilia A adquirida</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34591\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
-    },
-    {
       "id": "804246de8a52f651427183fcc2f705de9c50c56bf4e6a4e55fe148cdaaeba437",
       "titulo": "Estudio de fase¿II/III, adaptativo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad del momelotinib en participantes con síndrome VEXAS.",
       "titulo_completo": "Estudio de fase¿II/III, adaptativo, aleatorizado, doble ciego y controlado con placebo para evaluar la eficacia y la seguridad del momelotinib en participantes con síndrome VEXAS.",
@@ -561,6 +575,34 @@
       "fuente": "CTIS",
       "url": "https://reec.aemps.es/reec/public/list.html#est34590",
       "descripcion": "<p><strong>Identificador:</strong> 2025-524416-11-00 [ 223401 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de momelotinib en participantes con síndrome VEXAS.</p><p><strong>Enfermedad investigada:</strong> Síndrome VEXAS</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34590\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "cf615433b2b3207e1e2ca0d38d3ea4e8bbe864d6ed3e3a329479ef3d9b06321c",
+      "titulo": "Estudio abierto y multinacional para investigar la eficacia y la seguridad de denecimig (Mim8) en adultos con hemofilia A adquirida",
+      "titulo_completo": "Estudio abierto y multinacional para investigar la eficacia y la seguridad de denecimig (Mim8) en adultos con hemofilia A adquirida",
+      "resumen": "Estudio de investigación para evaluar denecimig (Mim8) en adultos con hemofilia A adquirida",
+      "enfermedad": "hemofilia A adquirida",
+      "estado": "Reclutando",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2026-525529-19-00 [ NN7769-7602 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34591",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525529-19-00 [ NN7769-7602 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de investigación para evaluar denecimig (Mim8) en adultos con hemofilia A adquirida</p><p><strong>Enfermedad investigada:</strong> hemofilia A adquirida</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34591\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "39f603ebc6631f8756224900b7c1affd9a29e085fdafb0a4c1699b9a8047c577",
+      "titulo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
+      "titulo_completo": "Eficacia y seguridad de niveles de dosis inferiores de zenagamtida en comparación con semaglutida administradas por vía s.c. una vez a la semana, en participantes con diabetes de tipo 2 no controlada [...]",
+      "resumen": "\"AMBITION 4: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis inferiores reduce la glucemia y el peso corporal en comparación con semaglutida, en personas con diabetes de t[...]",
+      "enfermedad": "Participantes con diabetes de tipo 2",
+      "estado": "Reclutando",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2026-525474-20-00 [ NN9489-8449 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34587",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525474-20-00 [ NN9489-8449 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> &quot;AMBITION 4: Estudio de investigación para analizar cómo zenagamtida en niveles de dosis inferiores reduce la glucemia y el peso corporal en comparación con semaglutida, en personas con diabetes de t[...]</p><p><strong>Enfermedad investigada:</strong> Participantes con diabetes de tipo 2</p><p><strong>Estado:</strong> Reclutando</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34587\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "a2cb3bd707e84a3a0b9ecac2ab714c6c28697698a5e784bd58f5499fe69bc981",
@@ -577,18 +619,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524064-37-00 [ BP46441 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio para evaluar los efectos y la seguridad de RO7568282 en enfermedad de Parkinson en fase inicial</p><p><strong>Enfermedad investigada:</strong> Enfermedad de Parkinson (EP)</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34588\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "6f9d3ded2d400f99a2216f98bbe5de0900e7a104e30dbbf384c36287638b1aca",
-      "titulo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
-      "titulo_completo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
-      "resumen": "Estudio con un solo grupo para evaluar el IgPro20 en adultos con inmunodeficiencia secundaria debida a neoplasias hemolinfáticas, que reciben tratamientos de linfocitos T con receptor quimérico para e[...]",
-      "enfermedad": "Inmunodeficiencia secundaria",
+      "id": "12cb706686e8dbb1107842d2ac5c601ff0727d46c8049b73ad5ae8c51c2b70c0",
+      "titulo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "titulo_completo": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "resumen": "Estudio aleatorizado en fase II que evalúa la radioterapia estereotáctica (stereotactic radiotherapy, SRT) inicial sobre todas las metástasis cerebrales seguidas de ivonescimab más quimioterapia frent[...]",
+      "enfermedad": "cáncer de pulmón no microcítico",
       "estado": "No iniciado",
       "fecha": "21/10/2026",
       "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2026-525626-38-00 [ IgPro20_3013 ]",
+      "identificador": "2025-522985-60-00 [ EORTC-2456-LCG-BTG ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34583",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-525626-38-00 [ IgPro20_3013 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio con un solo grupo para evaluar el IgPro20 en adultos con inmunodeficiencia secundaria debida a neoplasias hemolinfáticas, que reciben tratamientos de linfocitos T con receptor quimérico para e[...]</p><p><strong>Enfermedad investigada:</strong> Inmunodeficiencia secundaria</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34583\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34589",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-522985-60-00 [ EORTC-2456-LCG-BTG ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Enfermedad investigada:</strong> cáncer de pulmón no microcítico</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34589\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "7eca85f47273bcf925ad2b33aad3a3bb6dbe932b6b0a68654eb636154bce5285",
@@ -605,18 +647,32 @@
       "descripcion": "<p><strong>Identificador:</strong> 2025-524159-30-00 [ AB-10-8012 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio en fase II, multicéntrico, aleatorizado y abierto para evaluar la eficacia y la seguridad de AHB-137 en participantes tratados con análogos de nucleós(t)idos con hepatitis B crónica en las reg[...]</p><p><strong>Enfermedad investigada:</strong> Hepatitis B crónica</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34596\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "1a9f8d471771d310f3e57a50decb6f2badf2c5bf50b4d0a6f5a853032e9e24bb",
-      "titulo": "Estudio de fase III, aleatorizado, doble ciego y comparativo con placebo para investigar la eficacia y la seguridad del orforgliprón administrado una vez al día por vía oral en comparación con un plac[...]",
-      "titulo_completo": "Estudio de fase III, aleatorizado, doble ciego y comparativo con placebo para investigar la eficacia y la seguridad del orforgliprón administrado una vez al día por vía oral en comparación con un plac[...]",
-      "resumen": "Estudio de orforgliprón en participantes con sobrepeso en riesgo de desarrollar complicaciones relacionadas con la obesidad o progresar a obesidad de tipo 1 (ATTAIN-NOW)",
-      "enfermedad": "Estado prediabético",
+      "id": "0d358785ae75b90935ddc053a5ade4939f11bf8730b607e5c8e60fb4bf3e35d8",
+      "titulo": "Ensayo de fase 3, doble ciego, controlado con placebo y de retirada aleatorizada del tratamiento de mantenimiento con KarXT en participantes con esquizofrenia",
+      "titulo_completo": "Ensayo de fase 3, doble ciego, controlado con placebo y de retirada aleatorizada del tratamiento de mantenimiento con KarXT en participantes con esquizofrenia",
+      "resumen": "ensayo de prevención de recaídas de fase 3 que evalúa el tratamiento KarXT en la esquizofrenia",
+      "enfermedad": "Esquizofrenia",
       "estado": "No iniciado",
       "fecha": "21/10/2026",
       "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2026-526175-35-00 [ J2A-MC-GZVA ]",
+      "identificador": "2025-523664-20-00 [ CN0120006 ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34603",
-      "descripcion": "<p><strong>Identificador:</strong> 2026-526175-35-00 [ J2A-MC-GZVA ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de orforgliprón en participantes con sobrepeso en riesgo de desarrollar complicaciones relacionadas con la obesidad o progresar a obesidad de tipo 1 (ATTAIN-NOW)</p><p><strong>Enfermedad investigada:</strong> Estado prediabético</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34603\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34595",
+      "descripcion": "<p><strong>Identificador:</strong> 2025-523664-20-00 [ CN0120006 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> ensayo de prevención de recaídas de fase 3 que evalúa el tratamiento KarXT en la esquizofrenia</p><p><strong>Enfermedad investigada:</strong> Esquizofrenia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34595\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+    },
+    {
+      "id": "6f9d3ded2d400f99a2216f98bbe5de0900e7a104e30dbbf384c36287638b1aca",
+      "titulo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
+      "titulo_completo": "Estudio de fase III, prospectivo, en abierto, multicéntrico y con un solo grupo para investigar la eficacia, la seguridad y la farmacocinética del IgPro20 en participantes con inmunodeficiencia secund[...]",
+      "resumen": "Estudio con un solo grupo para evaluar el IgPro20 en adultos con inmunodeficiencia secundaria debida a neoplasias hemolinfáticas, que reciben tratamientos de linfocitos T con receptor quimérico para e[...]",
+      "enfermedad": "Inmunodeficiencia secundaria",
+      "estado": "No iniciado",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "identificador": "2026-525626-38-00 [ IgPro20_3013 ]",
+      "fuente": "CTIS",
+      "url": "https://reec.aemps.es/reec/public/list.html#est34583",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-525626-38-00 [ IgPro20_3013 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio con un solo grupo para evaluar el IgPro20 en adultos con inmunodeficiencia secundaria debida a neoplasias hemolinfáticas, que reciben tratamientos de linfocitos T con receptor quimérico para e[...]</p><p><strong>Enfermedad investigada:</strong> Inmunodeficiencia secundaria</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34583\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "fc673896b60cc224f91e700267b8318b791cf2519ba51538095dfbbfc180464e",
@@ -633,18 +689,18 @@
       "descripcion": "<p><strong>Identificador:</strong> 2026-526028-38-00 [ 1305-0152 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> FIBRONEER¿ACT: Estudio para averiguar si el nerandomilast ayuda a las personas con enfermedad pulmonar intersticial fibrosante que tienen riesgo de progresión de la enfermedad</p><p><strong>Enfermedad investigada:</strong> Enfermedades pulmonares intersticiales</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34581\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
-      "id": "0d358785ae75b90935ddc053a5ade4939f11bf8730b607e5c8e60fb4bf3e35d8",
-      "titulo": "Ensayo de fase 3, doble ciego, controlado con placebo y de retirada aleatorizada del tratamiento de mantenimiento con KarXT en participantes con esquizofrenia",
-      "titulo_completo": "Ensayo de fase 3, doble ciego, controlado con placebo y de retirada aleatorizada del tratamiento de mantenimiento con KarXT en participantes con esquizofrenia",
-      "resumen": "ensayo de prevención de recaídas de fase 3 que evalúa el tratamiento KarXT en la esquizofrenia",
-      "enfermedad": "Esquizofrenia",
+      "id": "1a9f8d471771d310f3e57a50decb6f2badf2c5bf50b4d0a6f5a853032e9e24bb",
+      "titulo": "Estudio de fase III, aleatorizado, doble ciego y comparativo con placebo para investigar la eficacia y la seguridad del orforgliprón administrado una vez al día por vía oral en comparación con un plac[...]",
+      "titulo_completo": "Estudio de fase III, aleatorizado, doble ciego y comparativo con placebo para investigar la eficacia y la seguridad del orforgliprón administrado una vez al día por vía oral en comparación con un plac[...]",
+      "resumen": "Estudio de orforgliprón en participantes con sobrepeso en riesgo de desarrollar complicaciones relacionadas con la obesidad o progresar a obesidad de tipo 1 (ATTAIN-NOW)",
+      "enfermedad": "Estado prediabético",
       "estado": "No iniciado",
       "fecha": "21/10/2026",
       "fecha_iso": "2026-10-21T09:00:00+00:00",
-      "identificador": "2025-523664-20-00 [ CN0120006 ]",
+      "identificador": "2026-526175-35-00 [ J2A-MC-GZVA ]",
       "fuente": "CTIS",
-      "url": "https://reec.aemps.es/reec/public/list.html#est34595",
-      "descripcion": "<p><strong>Identificador:</strong> 2025-523664-20-00 [ CN0120006 ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> ensayo de prevención de recaídas de fase 3 que evalúa el tratamiento KarXT en la esquizofrenia</p><p><strong>Enfermedad investigada:</strong> Esquizofrenia</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34595\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
+      "url": "https://reec.aemps.es/reec/public/list.html#est34603",
+      "descripcion": "<p><strong>Identificador:</strong> 2026-526175-35-00 [ J2A-MC-GZVA ]</p><p><strong>Fecha de autorización:</strong> 21/10/2026</p><p><strong>Resumen:</strong> Estudio de orforgliprón en participantes con sobrepeso en riesgo de desarrollar complicaciones relacionadas con la obesidad o progresar a obesidad de tipo 1 (ATTAIN-NOW)</p><p><strong>Enfermedad investigada:</strong> Estado prediabético</p><p><strong>Estado:</strong> No iniciado</p><p><strong>Procedencia:</strong> CTIS</p><p><a href=\"https://reec.aemps.es/reec/public/list.html#est34603\">Consultar en el Registro Español de Estudios Clínicos</a></p>"
     },
     {
       "id": "34f64dd049642a3756b3a1f607bff6fca923873164e157c3258c06ddf7e7e911",
